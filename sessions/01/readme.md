@@ -1,7 +1,7 @@
 # Class Guide | Session 01
 
 ## Homework Due Before Start of Class
-*Unless otherwise advised, homework is due at midnight before this class session.*   
+*Unless otherwise advised, this homework is due at midnight before this class session.*   
 
 * None.
 
@@ -17,7 +17,7 @@
 * None.
 
 ## Homework Assigned at the End of This Class
-*Unless otherwise advised, homework is due at midnight before the next class session.*   
+*Unless otherwise advised, this homework is due at midnight before the next class session.*   
 
 * Buy or rent a copy of the [Investigative Reporter's Handbook](https://www.amazon.com/Investigative-Reporters-Handbook-Documents-Techniques/dp/0312589972).
 * Read the [syllabus](../../README.md), and complete the [syllabus quiz](https://umd.instructure.com/courses/1251920/quizzes/1245606).
