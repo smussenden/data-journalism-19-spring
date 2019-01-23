@@ -2,7 +2,8 @@
 
 
 ## Homework Due Before Start of Class
-##### Unless otherwise advised, homework is due at midnight before the next day's class session.   
+*Unless otherwise advised, homework is due at midnight before the next day's class session.*   
+
 None.
 
 ## Lecture and discussion
