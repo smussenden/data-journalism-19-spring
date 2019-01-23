@@ -1,6 +1,6 @@
 # Class Guide | Session 01
 
-## Homework Due Before Start of Class
+### Homework Due Before Start of Class
 #### Unless otherwise advised, homework is due at midnight before the next day's class session.   
 None.
 
