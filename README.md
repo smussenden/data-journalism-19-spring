@@ -39,7 +39,7 @@ After successfully completing this course, we expect you to be able to:
 
 ### Required Texts and Materials
 
-[The Investigative Reporter’s Handbook: A Guide to Documents, Databases and Techniques, 5th edition](https://www.amazon.com/Investigative-Reporters-Handbook-Documents-Techniques/dp/0312589972), by Brant Houston and Investigative Reporters and Editors, Inc. (Bedford/St. Martin’s, 2008).  ISBN-13: 978-0-312-44265-1 or 978-0-3-1258997-4. This edition is sold at the University of Maryland Book Center and the Maryland Book Exchange.  A copy is also on course reserve at McKeldin Library. Ask for it by this call number:  XPB5229.B1.
+[The Investigative Reporter’s Handbook: A Guide to Documents, Databases and Techniques, 5th edition](https://www.amazon.com/Investigative-Reporters-Handbook-Documents-Techniques/dp/0312589972), by Brant Houston and Investigative Reporters and Editors, Inc. (Bedford/St. Martin’s, 2008).  ISBN-13: 978-0-312-44265-1 or 978-0-3-1258997-4.
 
 Additional readings from other sources will be required throughout the semester.  To comply with academic fair use regulations, they will be posted to the course website on the university's ELMS system, and will not be posted on this publicly available GitHub repo.
 
@@ -54,14 +54,15 @@ All of the software you need to complete this course is available on computers i
 * MySQL Workbench, available for free [here](https://www.mysql.com/products/workbench/).
 * Atom, a text editor available for free [here](https://atom.io/).
 
+Note: I am much better at debugging problems with Macs than I am with PC.  I encourage you to use Macs for this class, if possible.
+
 ### Grading
 
-* IRE Handbook Assignment - 5%
 * Exam 1 - 12.5%
 * Exam 2 - 12.5%
 * Data Acquisition Project - 20%
 * Data Analysis Project - 20%
-* Pass/Fail Take-Home and In-Class Lab Assignments - 25%
+* Pass/Fail Homework and In-Class Lab Assignments - 30%
 * Participation - 5%
 * Note: there is no final exam in this course.
 
