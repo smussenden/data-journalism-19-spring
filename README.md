@@ -1,15 +1,15 @@
-# Introduction to Data Journalism
+# Data Journalism
 
-This is the repo for Introduction to Data Journalism, a course taught at the University of Maryland Philip Merrill College of Journalism. This course was designed by professors Sean Mussenden and Adam Marton, building on the work of professors Dan Keating and Ira Chinoy, who previously taught this course.  
+This is the repo for Data Journalism, a course taught at the University of Maryland Philip Merrill College of Journalism. This course was designed by professors Sean Mussenden and Adam Marton, building on the work of professors Dan Keating and Ira Chinoy, who previously taught this course.  
 
 It is designed for use by students at the University of Maryland but anyone is free to work through the tutorials and exercises listed here.
 
 ## Course Syllabus
 
-* **JOUR472/772 | Introduction to Data Journalism (previously known as Computer-Assisted Reporting)**
+* **JOUR472/772 | Data Journalism (previously known as Computer-Assisted Reporting)**
 * **Professor Sean Mussenden**
-* **smussend@umd.edu | 202-590-2190 | Please text and/or email. I'll do my best to respond quickly.**
-* **Office hours by appointment. Please note that I am eager to meet with you, but because of my Capital News Service schedule I don't have set office hours. Just reach out and we'll set something up.**
+* **smussend@umd.edu | 202-590-2190 (call or text) | @seanm on Slack | @smussenden on Twitter | I'll do my best to respond quickly.**
+* **Office hours and location | Tuesday 3-4:40, Tuesday 3-4:30, other times by appointment. | During office hours, I'll usually be in 2206 Knight Hall.  Sometimes I may be at my desk in 3210 Knight Hall (Studio C). If you know you'll want to meet during office hours, it's best to message me ahead of time to reserve a slot, but you are free to drop by.**
 
 ### Objective
 
@@ -61,7 +61,7 @@ All of the software you need to complete this course is available on computers i
 * Exam 2 - 12.5%
 * Data Acquisition Project - 20%
 * Data Analysis Project - 20%
-* Take-Home and In-Class Lab Assignments - 25%
+* Pass/Fail Take-Home and In-Class Lab Assignments - 25%
 * Participation - 5%
 * Note: there is no final exam in this course.
 
@@ -123,34 +123,32 @@ Sean Mussenden is the data editor for Capital News Service, a non-profit news or
 <!--- https://docs.google.com/spreadsheets/d/1HA7snfUJeozVNdVZ281B6sjtgBmVUVwxhupbv3wDiE8/edit#gid=883698375 and https://jakebathman.github.io/Markdown-Table-Generator/-->
 **Session**|**Weekday**|**Date**|**Class Outline**|**Homework Due at Start of Class**|**In-Class Discussion/Lecture**|**In-Class Lab**|**Homework Assigned at End of Class**
 -----|-----|-----|-----|-----|-----|-----|-----
-1|Monday|8/27|[Link](sessions/01/readme.md)|None|The power of data journalism. Introductions. Course overview. Syllabus review. |None. |Read the syllabus in detail and complete syllabus quiz (ELMS).  Complete students skills survey (ELMS). Complete student introduction forum post (ELMS). Complete and upload academic integrity pledge (ELMS). Purchase, rent or checkout course textbook. All due next session.
-2|Wednesday|8/29|[Link](sessions/02/readme.md)|Read the syllabus in detail and complete syllabus quiz (ELMS).  Complete students skills survey (ELMS). Complete student introduction forum post (ELMS). Complete and upload academic integrity pledge (ELMS). All due next session. |Introduction to basic data analysis. |Excel Lab 1: Introduction to spreadsheets and Microsoft Excel. Using Excel to calculate change, percent change, rank and share of total. |Excel Assignment 1. Data journalism in the newsroom reading and writing assignment. All due next session.
-X|Monday|9/3|TK|NO|CLASS|LABOR|DAY
-3|Wednesday|9/5|[Link](sessions/03/readme.md)|Excel Assignment 1. Data journalism in the newsroom reading and writing assignment.|Review of Excel Assignment 1. Data journalism in the newsroom. Notable data-driven journalism projects. The role of the data journalists. |None.|The Investigative Reporter's Handbook reading and writing assignment. Review outline for data acquisition project. All due next session.
-4|Monday|9/10|[Link](sessions/04/readme.md)|The Investigative Reporter's Handbook reading and writing assignment. Review outline for data acquisition project.|Overview of data acquisition project.|None.|Excel Assignment 2, which will be started in-class. Reading from Data Literacy and quiz. Both due next session. Data acquisition project status memo 1, due session 6. Data acquisition project status memo 2, due session 10. Data acquisition project status memo 3, due session session 17. Data acquisition project final paper due session 25. Data acquisition project presentation final presentation due session 25 or 26.
-5|Wednesday|9/12|[Link](sessions/05/readme.md)|Excel Assignment 2. Reading from Data Literacy and quiz.  |Review of Excel Assignment 2. How to get data. Data acquisition methods, public information laws and data. |None.|Excel Assignment 3. Crime in Context reading and writing assignment. Data Literacy reading and quiz. All due next session.
-6|Monday|9/17|[Link](sessions/06/readme.md)|Data acquisition project status memo. Excel Assignment 3. Crime in Context reading and writing assignment.|None.|Excel Lab 2: Summarizing with Pivot Tables. Filters. Functions.|Excel Assignment 4. Due next session.
-7|Wednesday|9/19|[Link](sessions/06/readme.md)|Excel Assignment 4.|Review Excel Assignment 4. Continuation of data acquisition discussion. Building databases in-house.|Excel Lab 3: Additional practice with Pivot Tables, Filters and Functions.|Complete exam review worksheet. Due next session.
-8|Monday|9/24|[Link](sessions/08/readme.md)|Complete exam review worksheet.|Exam review. |None|Study for exam 1.
-9|Wednesday|9/26|[Link](sessions/09/readme.md)|Exam 1|None.|Exam 1.|None.
-10|Monday|10/1|[Link](sessions/10/10-readme.md)|Data acquisition status project memo 2.|Introduction to relational databases.|SQL Lab 1: Introduction to MySQL Workbench. Basic SELECT queries. Filtering with WHERE and wildcards.|SQL Assignment 1. Due next session.
-11|Wednesday|10/3|[Link](sessions/11/11-readme.md)|SQL Assignment 1.|Review of SQL assignment 1.|SQL Lab 2: Summarizing, grouping, calculating totals.|SQL Assignment 2.  Due next session.
-12|Monday|10/8|[Link](sessions/12/12-readme.md)|SQL Assignment 2.|Review of SQL assignment 2.|SQL Lab 3: Linking tables with JOIN|SQL Assignment 3.  Due next session.
-13|Wednesday|10/10|[Link](sessions/13/13-readme.md)|SQL Assignment 3. Draft PIA Letter. |Review of SQL assignment 3.|SQL Lab 4: Advanced filtering with HAVING, WITH ROLLUP.|SQL Assignment 4.  Due next session.
-14|Monday|10/15|[Link](sessions/14/14-readme.md)|SQL Assignment 4.|Review of SQL assignment 4.|SQL Lab 5: Advanced practice.|SQL Assignment 5, Advanced Practice.  Due next session.
-15|Wednesday|10/17|[Link](sessions/15/15-readme.md)|Review SQL Assignment 5|Handout Exam 2, Take home|None.|Work on Exam 2.
-16|Monday|10/22|TK|Work on Exam 2.|None.|Work on Exam 2| Exam 2 due next session. Status memo 3 for data acquisition project due.
-17|Wednesday|10/24|[Link](sessions/17/17-readme.md)|Exam 2 due. Status memo 3 for data acquisition project due.|Introduction to data analysis project. Approaches to data analysis: the documentation. | Data analysis lab 1: pitch ideas, questions based on documentation.| Status memo 1 for data analysis project is assigned, but due at start of session 19. Status memo 2 for data analysis project is assigned, but due at start of session 23. Final data analysis memo due at end of session 29.
-18|Monday|10/29|[Link](sessions/18/18-readme.md)|Complete data analysis lab 1.|Review of data analysis lab 1.|SQL Lab 6: temporary tables and multiple joins. Work on data analysis project. | Visualization readings and quiz. Due next session.
-19|Wednesday|10/31|[Link](sessions/19/19-readme.md)|Readings and quiz on data visualization. Status memo 1 for data analysis project due.|Using visualization to help with exploratory analysis.|Data analysis lab: using Excel to build basic charts.|Reading and forum post assignment on data visualization projects. Review of interesting projects, selection of one project for small group discussions.  Due next session.
-20|Monday|11/5|[Link](sessions/20/20-readme.md)|Reading and writing assignment on data visualization projects. Review of interesting projects, selection of one project for small group discussions.|Small group discussion of data visualization projects.|None.|Readings on the reality of data journalism in newsroom, data cleaning and flawed data. Review of Quartz bad data guide and quiz and short forum post.  Due next session.
-21|Wednesday|11/7|[Link](sessions/21/21-readme.md)|Readings on the reality of data journalism in newsroom, data cleaning and flawed data. Review of Quartz bad data guide and short quiz and forum post.|Dealing with dirty data, errors, missing values and other problems.|Data prep lab 1: using OpenRefine to clean data. | Assignment: additional work using OpenRefine to clean data.  Due next session.
-22|Monday|11/12|[Link](sessions/22/22-readme.md)|Assignment: using OpenRefine to clean data. | None. | Open Lab for data analysis project | None.
-23|Wednesday|11/14|[Link](sessions/23/23-readme.md)| Status memo 2 for data analysis project due.| None. |Data preparation lab 2: loading data into MySQL Workbench.|Reading and forum post on data workflow, reproducibility, fact-checking.  Due next session.
-24|Monday|11/19|[Link](sessions/24/24-readme.md)|Reading and forum post on data workflow, reproducibility, fact-checking.|Towards a reproducible, well-documented data cleaning and data analysis process that can be fact-checked.|Normally would do Data process lab 1: fact-checking someone else's work. But skipping this in interest of working on final analysis project meetings.|None.
-X|Wednesday|11/21|TK|NO|CLASS|THANKSGIVING|BREAK
-25|Monday|11/26|TK|Data Acquisition Paper Due|First data acquisition presentations.|None scheduled. If time, open hours to work on final analysis project.|None. Work on analysis project.
-26|Wednesday|11/28|TK|None. Work on analysis project.|Second data acquisition presentations.|None scheduled. If time, open hours to work on final analysis project.|None. Work on analysis project.
-27|Monday|12/3|TK|None. Work on analysis project.|None.|Data analysis project open lab|None. Work on analysis project.
-28|Wednesday|12/5|TK|None. Work on analysis project.|None.|Data analysis project open lab|None. Work on analysis project.
-29|Monday|12/10|TK|Data analysis project (due at end of class).|None.|Data analysis project open lab|None.
+1|Tuesday|1/29|[Link](sessions/01/readme.md)|None|The power of data journalism. Introductions. Course overview. Syllabus review. |None. |Read the syllabus in detail and complete syllabus quiz (ELMS).  Complete students skills survey (ELMS). Complete student introduction forum post (ELMS). Complete and upload academic integrity pledge (ELMS). Purchase, rent or checkout course textbook. All due next session.
+2|Thursday|1/31|[Link](sessions/02/readme.md)|Read the syllabus in detail and complete syllabus quiz (ELMS).  Complete students skills survey (ELMS). Complete student introduction forum post (ELMS). Complete and upload academic integrity pledge (ELMS). All due next session. |Introduction to basic data analysis. |Excel Lab 1: Introduction to spreadsheets and Microsoft Excel. Using Excel to calculate change, percent change, rank and share of total. |Excel Assignment 1. Data journalism in the newsroom reading and writing assignment. All due next session.
+3|Tuesday|2/5|[Link](sessions/03/readme.md)|Excel Assignment 1. Data journalism in the newsroom reading and writing assignment.|Review of Excel Assignment 1. Data journalism in the newsroom. Notable data-driven journalism projects. The role of the data journalists. |None.|The Investigative Reporter's Handbook reading and writing assignment. Review outline for data acquisition project. All due next session.
+4|Thursday|2/7|[Link](sessions/04/readme.md)|The Investigative Reporter's Handbook reading and writing assignment. Review outline for data acquisition project.|Overview of data acquisition project.|None.|Excel Assignment 2, which will be started in-class. Reading from Data Literacy and quiz. Both due next session. Data acquisition project status memo 1, due session 6. Data acquisition project status memo 2, due session 10. Data acquisition project status memo 3, due session session 17. Data acquisition project final paper due session 25. Data acquisition project presentation final presentation due session 25 or 26.
+5|Tuesday|2/12|[Link](sessions/05/readme.md)|Excel Assignment 2. Reading from Data Literacy and quiz.  |Review of Excel Assignment 2. How to get data. Data acquisition methods, public information laws and data. |None.|Excel Assignment 3. Crime in Context reading and writing assignment. Data Literacy reading and quiz. All due next session.
+6|Thursday|2/14|[Link](sessions/06/readme.md)|Data acquisition project status memo. Excel Assignment 3. Crime in Context reading and writing assignment.|None.|Excel Lab 2: Summarizing with Pivot Tables. Filters. Functions.|Excel Assignment 4. Due next session.
+7|Tuesday|2/19|[Link](sessions/06/readme.md)|Excel Assignment 4.|Review Excel Assignment 4. Continuation of data acquisition discussion. Building databases in-house.|Excel Lab 3: Additional practice with Pivot Tables, Filters and Functions.|Complete exam review worksheet. Due next session.
+8|Thursday|2/21|[Link](sessions/08/readme.md)|Complete exam review worksheet.|Exam review. |None|Study for exam 1.
+9|Tuesday|2/26|[Link](sessions/09/readme.md)|Exam 1|None.|Exam 1.|None.
+10|Thursday|2/28|[Link](sessions/10/10-readme.md)|Data acquisition status project memo 2.|Introduction to relational databases.|SQL Lab 1: Introduction to MySQL Workbench. Basic SELECT queries. Filtering with WHERE and wildcards.|SQL Assignment 1. Due next session.
+11|Tuesday|3/5|[Link](sessions/11/11-readme.md)|SQL Assignment 1.|Review of SQL assignment 1.|SQL Lab 2: Summarizing, grouping, calculating totals.|SQL Assignment 2.  Due next session.
+12|Thursday|3/7|[Link](sessions/12/12-readme.md)|SQL Assignment 2.|Review of SQL assignment 2.|SQL Lab 3: Linking tables with JOIN|SQL Assignment 3.  Due next session.
+13|Tuesday|3/12|[Link](sessions/13/13-readme.md)|SQL Assignment 3. Draft PIA Letter. |Review of SQL assignment 3.|SQL Lab 4: Advanced filtering with HAVING, WITH ROLLUP.|SQL Assignment 4.  Due next session.
+14|Thursday|3/14|[Link](sessions/14/14-readme.md)|SQL Assignment 4.|Review of SQL assignment 4.|SQL Lab 5: Advanced practice.|SQL Assignment 5, Advanced Practice.  Due next session.
+15|Tuesday|3/26|[Link](sessions/15/15-readme.md)|Review SQL Assignment 5|Handout Exam 2, Take home|None.|Work on Exam 2.
+16|Thursday|3/28|TK|Work on Exam 2.|None.|Work on Exam 2| Exam 2 due next session. Status memo 3 for data acquisition project due.
+17|Tuesday|4/2|[Link](sessions/17/17-readme.md)|Exam 2 due. Status memo 3 for data acquisition project due.|Introduction to data analysis project. Approaches to data analysis: the documentation. | Data analysis lab 1: pitch ideas, questions based on documentation.| Status memo 1 for data analysis project is assigned, but due at start of session 19. Status memo 2 for data analysis project is assigned, but due at start of session 23. Final data analysis memo due at end of session 29.
+18|Thursday|4/4|[Link](sessions/18/18-readme.md)|Complete data analysis lab 1.|Review of data analysis lab 1.|SQL Lab 6: temporary tables and multiple joins. Work on data analysis project. | Visualization readings and quiz. Due next session.
+19|Tuesday|4/9|[Link](sessions/19/19-readme.md)|Readings and quiz on data visualization. Status memo 1 for data analysis project due.|Using visualization to help with exploratory analysis.|Data analysis lab: using Excel to build basic charts.|Reading and forum post assignment on data visualization projects. Review of interesting projects, selection of one project for small group discussions.  Due next session.
+20|Thursday|4/11|[Link](sessions/20/20-readme.md)|Reading and writing assignment on data visualization projects. Review of interesting projects, selection of one project for small group discussions.|Small group discussion of data visualization projects.|None.|Readings on the reality of data journalism in newsroom, data cleaning and flawed data. Review of Quartz bad data guide and quiz and short forum post.  Due next session.
+21|Tuesday|4/16|[Link](sessions/21/21-readme.md)|Readings on the reality of data journalism in newsroom, data cleaning and flawed data. Review of Quartz bad data guide and short quiz and forum post.|Dealing with dirty data, errors, missing values and other problems.|Data prep lab 1: using OpenRefine to clean data. | Assignment: additional work using OpenRefine to clean data.  Due next session.
+22|Thursday|4/18|[Link](sessions/22/22-readme.md)|Assignment: using OpenRefine to clean data. | None. | Open Lab for data analysis project | None.
+23|Tuesday|4/23|[Link](sessions/23/23-readme.md)| Status memo 2 for data analysis project due.| None. |Data preparation lab 2: loading data into MySQL Workbench.|Reading and forum post on data workflow, reproducibility, fact-checking.  Due next session.
+24|Thursday|4/25|[Link](sessions/24/24-readme.md)|Reading and forum post on data workflow, reproducibility, fact-checking.|Towards a reproducible, well-documented data cleaning and data analysis process that can be fact-checked.|Normally would do Data process lab 1: fact-checking someone else's work. But skipping this in interest of working on final analysis project meetings.|None.
+25|Tuesday|4/30|TK|Data Acquisition Paper Due|First data acquisition presentations.|None scheduled. If time, open hours to work on final analysis project.|None. Work on analysis project.
+26|Thursday|5/2|TK|None. Work on analysis project.|Second data acquisition presentations.|None scheduled. If time, open hours to work on final analysis project.|None. Work on analysis project.
+27|Tuesday|5/4|TK|None. Work on analysis project.|None.|Data analysis project open lab|None. Work on analysis project.
+28|Thursday|5/6|TK|None. Work on analysis project.|None.|Data analysis project open lab|None. Work on analysis project.
+29|Tuesday|5/7|TK|Data analysis project (due at end of class).|None.|Data analysis project open lab|None.
