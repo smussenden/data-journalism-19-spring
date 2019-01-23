@@ -2,7 +2,8 @@
 
 ## Homework Due Before Start of Class
 *Unless otherwise advised, homework is due at midnight before this class session.*   
-None.
+
+* None.
 
 ## Lecture and discussion
 
@@ -12,7 +13,8 @@ None.
 
 ## In-class lab work
 *Unless otherwise advised, in-class lab work is due by the end of this class session.*   
-None.
+
+* None.
 
 ## Homework Assigned at the End of This Class
 *Unless otherwise advised, homework is due at midnight before the next class session.*   
