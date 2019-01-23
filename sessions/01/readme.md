@@ -1,9 +1,7 @@
 # Class Guide | Session 01
 
-
 ## Homework Due Before Start of Class
-*Unless otherwise advised, homework is due at midnight before the next day's class session.*   
-
+*Unless otherwise advised, homework is due at midnight before this class session.*   
 None.
 
 ## Lecture and discussion
@@ -13,13 +11,11 @@ None.
 * [Syllabus review](../../README.md).
 
 ## In-class lab work
-#### Unless otherwise advised, homework is due at midnight on the day prior  
-
+*Unless otherwise advised, in-class lab work is due by the end of this class session.*   
 None.
 
-## Homework assigned at the end of this class
-
-All of these should be completed before the start of session 2.
+## Homework Assigned at the End of This Class
+*Unless otherwise advised, homework is due at midnight before the next class session.*   
 
 * Buy or rent a copy of the [Investigative Reporter's Handbook](https://www.amazon.com/Investigative-Reporters-Handbook-Documents-Techniques/dp/0312589972).
 * Read the [syllabus](../../README.md), and complete the [syllabus quiz](https://umd.instructure.com/courses/1251920/quizzes/1245606).
