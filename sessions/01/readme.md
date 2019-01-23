@@ -1,7 +1,7 @@
-# Session 01 Guide
+# Class Guide | Session 01
 
-## Homework due before the beginning of this class
-
+## Homework Due Before Start of Class
+#### Unless otherwise advised, homework is due at midnight before the next day's class session.   
 None.
 
 ## Lecture and discussion
@@ -11,6 +11,7 @@ None.
 * [Syllabus review](../../README.md).
 
 ## In-class lab work
+#### Unless otherwise advised, homework is due at midnight on the day prior  
 
 None.
 
