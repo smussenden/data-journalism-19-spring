@@ -7,6 +7,8 @@ It is designed for use by students at the University of Maryland but anyone is f
 ## Course Syllabus
 
 * **JOUR472/772 | Data Journalism (previously known as Computer-Assisted Reporting)**
+* **Tuesday and Thursday, noon - 1:50 p.m.**
+* **2103 Knight Hall**
 * **Professor Sean Mussenden**
 * **smussend@umd.edu | 202-590-2190 (call or text) | @seanm on Slack | @smussenden on Twitter | I'll do my best to respond quickly.**
 * **Office hours and location | Monday 3-4:40, Thursday 3-4:30, other times by appointment. | During office hours, I'll usually be in 2206 Knight Hall.  Sometimes I may be at my desk in 3210 Knight Hall (Studio C). If you know you'll want to meet during office hours, it's best to message me ahead of time to reserve a slot, but you are free to drop by.**
@@ -53,6 +55,7 @@ All of the software you need to complete this course is available on computers i
 * MySQL Community server, available for free [here](https://dev.mysql.com/downloads/mysql/).
 * MySQL Workbench, available for free [here](https://www.mysql.com/products/workbench/).
 * Atom, a text editor available for free [here](https://atom.io/).
+* GitHub Desktop, available for free [here](https://desktop.github.com/).
 
 Note: I am much better at debugging problems with Macs than I am with PC.  I encourage you to use Macs for this class, if possible.
 
@@ -62,7 +65,7 @@ Note: I am much better at debugging problems with Macs than I am with PC.  I enc
 * Exam 2 - 12.5%
 * Data Acquisition Project - 20%
 * Data Analysis Project - 20%
-* Pass/Fail Homework and In-Class Lab Assignments - 30%
+* Pass/Fail Homework and Pass/Fail In-Class Lab Assignments - 30%
 * Participation - 5%
 * Note: there is no final exam in this course.
 
@@ -82,9 +85,17 @@ Minus and plus grading will be assessed as follows:
 * 60-62 = D-
 * Below 60 = F
 
-### Attendance
+### Attendance and assignment deadlines
 
-Because much of the learning in this course will be hands-on, it is important that you attend every class and show up on time.  If you are ill and will miss class, let the instructor know before that class, if possible. Unless you have the instructor’s approval in advance, course work cannot be made up if you do not submit it on time. Because the class requires hands-on skills and discussion, missed classes cannot be reproduced by simply getting Powerpoint slides, and the instructor is not responsible to re-teach material even for excused absences.
+Because much of the learning in this course will be hands-on, it is important that you attend *every* class and show up on time. Showing up on time means you should be in your seat, your mobile device put away, logged in to a campus computer (or your own if you prefer) and ready to begin participating *before* class starts. Missing class or arriving late will affect your participation grade.
+
+Unless I note otherwise, in-class labs are due at the end of class. You must be physically present in class to complete in-class lab assignments. If you are seriously ill and will miss class, let me know before class, by email or text. Unless you have my approval in advance, lab work cannot be made up. At my discretion, I may request a doctor's note before granting approval.
+
+Unless I note otherwise, assigned homework is due by midnight prior to the next class session. As in, homework assigned at the end of class on Tuesday is due by midnight before class on Thursday.
+
+Late assignments -- even one minute late -- will not be graded and given a zero. This includes all kinds of assignments, including major assignments.  Please take care to turn things in on time. Exceptions can be made on case-by-case basis in cases of serious illness or genuine emergency.
+
+Unless I note otherwise, weather-based closures of the university do not change assignment deadlines.   
 
 ### Religious holidays
 
@@ -94,7 +105,13 @@ There will be no tests or major assignments scheduled on religious holidays iden
 
 Though you will work hard in this class, I hope you will find it fun and rewarding. The give and take of classroom discussion is a great opportunity for all of us to learn.
 
-The only program you should run on your computer during class is the one we are using at that time for class work.  If you have been on the Web or checking e-mail at your seat before class starts, you must shut these programs down by the starting time for the class. Using the computer or cell phone for messaging or browsing during class sessions results in a reduced grade in class participation, which accounts for 5 percent of the overall course grade. If your demeanor interrupts or interferes with the class, your participation grade will suffer.
+At the start of class, you should silence your cell phone and put it in your bag.  You should not check it during class without asking permission.
+
+The only program you should run on your computer during class is the one we are using at that time for class work.  
+
+If you have been on the Web or checking e-mail at your seat before class starts, you must shut these programs down by the starting time for the class.
+
+Using the computer or cell phone for messaging or browsing during class sessions results in a reduced grade in class participation, which accounts for 5 percent of the overall course grade. If your demeanor interrupts or interferes with the class, your participation grade will suffer.
 
 The College of Journalism does not permit food or beverages in the lab.
 
