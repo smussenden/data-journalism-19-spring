@@ -17,9 +17,9 @@
 
 2. Introduce myself.
 * Journalist for two decades, most of that time specializing in data journalism, working at the intersection of code, data and investigative reporting.  
-* Capital News Service's data editor for almost 10 years. Taught hundreds of students like you to do the kind of work we're doing in here, mostly in small groups.  This is the first time I've taught this course, and I'm in the middle of overhauling it, so will be looking for feedback from you.
+* Capital News Service's data editor for almost 10 years. Taught hundreds of students like you to do the kind of work we're doing in here, mostly in small groups.  This is second I've taught this course, and I'm in the middle of overhauling it, so will be looking for feedback from you.  I may, at mid-semester, switch us from SQL to R
 * My teaching style is very hands-on, prioritizing learning-by-doing.  There won't be a lot of lectures in this course. There will be a lot of hands on work, because this work prioritizes repetition.
-* This is my promise to you: if you are struggling with the work we do in here, and you ask me for help, I will make time to help you.     
+* This is my promise to you: if you are struggling with the work we do in here, and you ask me for help, I will make time to help you. My office hours are Mondays and Thursdays or by important.      
 
 3. Student Introductions.
 * Read off names and take attendance.
@@ -58,7 +58,7 @@ https://www.mprnews.org/story/2017/08/01/looking-back-photos-of-the-bridge-colla
 
 **Q: A Thought Experiment. Let’s say that you are the managing editor at the Minneapolis Star Tribune or the news director of a local TV station. In other words, you have a local news organization at your command.You see a Tweet from a driver with a video showing the collapse.**  
 
-**How would you cover this story? What would you do? What kinds of stories? What kinds of reporting? What has your previous experience taught you about how to cover this?**
+**How would you cover this story? What would you do? What kinds of stories? What kinds of reporting? What has your previous experience taught you about how to cover this? Think of all the ways you might do this**
 
 Possible answers:
 
@@ -134,7 +134,7 @@ http://www.philly.com/philly/infographics/412035365.html
 
 * Even in breaking news situations, the best reporters are thinking beyond just "what happened"?  They're thinking about why something happened, figuring out how to put it in context. They're producing stories of impact that, through sunshine, could help prevent future tragedies, and thinking about the next story.
 * Using data, they're moving beyond the story everyone has -- what happened -- to a more exclusive story -- how widespread the problem is -- that only they have because they knew how to find a database, understand what's in it (through documentation and interviews), the technical skill and news sense to analyze it, and build a story around it.
-* That's what this class is about. If you master this process -- what we'll define as the basics of data journalism, and used to be called computer assisted reporting -- and you will get lots of great stories.  And it will set you up for more advanced data journalism work in future courses.
+* That's what this class is about. If you master this process -- what we'll define as the basics of data journalism, and used to be called computer assisted reporting -- and you will get lots of great stories.  And it will set you up for more advanced data journalism work in future courses. You will learn through your analysis things that, quite possibly, no one else knows.  Exclusive information.
 * Data journalism doesn't just mean data analysis.  There's a lot of human reporting involved.
 * And lot of people can find some data online, analyze it quickly and post a story.  Sometimes data journalism is really that easy.  But the best application of this work takes time and effort.  That's what we'll learn in this class.
 
@@ -179,6 +179,11 @@ Two notes:
 -- Readings will be on ELMS.
 -- Most of the assignments will be submitted on ELMS, but will generally be posted on course GitHub page.
 -- Go over GitHub layout.  For each session, where to find information.
+
+**Grading and attendance**
+--Go over that.
+--Lateness.
+--Cell phones.
 
 **Review Assignments** through **Students in Need**
 
