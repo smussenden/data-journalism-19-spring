@@ -8,7 +8,7 @@
 ## Lecture and discussion
 
 * Introductions.
-* The power and potential of data journalism.
+* The power and potential of data journalism. [NBI](01-/files/national-bridge-inventory)
 * [Syllabus review](../../README.md).
 
 ## In-class lab work
