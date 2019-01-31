@@ -115,7 +115,7 @@ Unlike numbers, dates or text, formulas always begin with an equals (=) sign.
 
 Suppose we want to add up the total estimated spending on national defense for the years 2018 through 2023. Let's do this now.   
 
-Click on cell CI1 and type "2018-2023 Total Estimate". In cell CJ2, add together all of the estimated values for national defense for the years 2018 through 2023, which are located in CD2, CE2, CF2, CG2, CH2 and CI2 by typing "=CD2+CE2+CF2+CG2+CH2+CI2".  
+Click on cell CJ1 and type "2018-2023 Total Estimate". In cell CJ2, add together all of the estimated values for national defense for the years 2018 through 2023, which are located in CD2, CE2, CF2, CG2, CH2 and CI2 by typing "=CD2+CE2+CF2+CG2+CH2+CI2".  
 
 ![image](../02-files/image-16.png)
 
