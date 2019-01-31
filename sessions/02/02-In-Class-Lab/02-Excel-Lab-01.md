@@ -153,7 +153,7 @@ It's =CI2-CD2. Copy the formula down, as before.
 
 ### Step 5: Sorting
 
-Rearrange a spreadsheet's rows is one of the most powerful was to gain insight from your data.  
+Rearranging a spreadsheet's rows is one of the most powerful ways to gain insight from your data.  
 
 Before we learn to sort, we're going to make our task easier by deleting the bottom 20 rows of the sheet, which contain percentage data on each budget category. Don't worry, they're preserved in our original sheet.
 
