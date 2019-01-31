@@ -151,7 +151,7 @@ See if you can work out the formula before looking at the image below.
 
 It's =CI2-CD2. Copy the formula down, as before.
 
-### Step 5: Sorting
+### Step 6: Sorting
 
 Rearranging a spreadsheet's rows is one of the most powerful ways to gain insight from your data.  
 
@@ -179,7 +179,7 @@ On your own, can you figure out how to restore the original sort order?  Don't u
 
 Resort the sheet before moving to the next step.
 
-### Step 6: Calculating Percent Change
+### Step 7: Calculating Percent Change
 
 We've calculated the raw number change between 2018 and 2023.  Now let's calculate the percent change for the same time span.
 
@@ -206,7 +206,7 @@ In the popup window, select "Percentage", and keep the decimal places at 2.  The
 
 Now fill the formula down to compute percent change for every other row.
 
-### Step 7: Calculating Share of Total
+### Step 8: Calculating Share of Total
 
 Now let's calculate the share, in percentage terms, each budget category accounts for of all federal spending. That total is in row 33, called "Total Federal Outlays".
 
@@ -226,7 +226,7 @@ Fortunately, there's a way to always refer to a specific cell as we copy down a 
 
 Let's go back to our original formula in CN2 and modify it like so: =CI2/$CI$33.  The dollar signs say "as we copy the formula down, keep our total reference cell fixed on row CI33".  
 
-### Step 7: Calculating Rank
+### Step 9: Calculating Rank
 
 Now let's calculate the rank of the sub category items under the "Human Resources" category for 2023 (column CI).
 
@@ -238,7 +238,7 @@ Here’s what it says: find out how the value in cell CI4 ranks in size compared
 
 Now drag the formula down to CO11.
 
-### Step 8: All finished.  Turn it in.
+### Step 10: All finished.  Turn it in.
 
 You've completed the exercise.  Save your Excel file one last time. Then upload it to the [ELMS page](https://umd.instructure.com/courses/1259604/assignments/4811976) for this assignment.   
 
