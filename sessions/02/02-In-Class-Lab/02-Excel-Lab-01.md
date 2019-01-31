@@ -25,7 +25,7 @@ Type your name in cell A1 and hit enter.
 
 Close the spreadsheet you were just working with.  
 
-Create a folder on your desktop called "excel-01". Download this [spreadsheet of U.S. federal government](data/_hist03z1-fy2019.xlsx) spending from 1940 to 2017, with estimates from 2018 through 2023. It was taken from the [Office of Management and Budget's data page](https://www.whitehouse.gov/omb/historical-tables/).
+Create a folder on your desktop called "excel-01". Download this [spreadsheet of U.S. federal government](data/hist03z1-fy2019.xlsx) spending from 1940 to 2017, with estimates from 2018 through 2023. It was taken from the [Office of Management and Budget's data page](https://www.whitehouse.gov/omb/historical-tables/).
 
 Move it into your "excel-01" folder, then open it in Excel.  
 
