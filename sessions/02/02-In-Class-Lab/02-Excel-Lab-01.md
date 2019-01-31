@@ -96,7 +96,7 @@ In cell A1, type "record_number."  Put the number 1 in A2, and the number 2 in A
 ![image](../02-files/image-13.png)
 
 
-Click on cell A1. Hold down shift, and the down arrow to select cells A1 and A2. A small green square will appear at the bottom right corner of A2. Hover over it until the black cross appears. Click it and drag to the last row of data, row 56, and release the cursor.  A sequence of numbers from 1 to 55 now appears in column A, one number per row.
+Click on cell A2. Hold down shift, and the down arrow to select cells A2 and A3. A small green square will appear at the bottom right corner of A3. Hover over it until the black cross appears. Click it and drag to the last row of data, row 56, and release the cursor.  A sequence of numbers from 1 to 55 now appears in column A, one number per row.
 
 
 **Freeze the top row** -- It can be useful to "freeze" the top row (or rows) and left column (or columns) so that when you scroll down or across data sets with lots of records or many columns.
