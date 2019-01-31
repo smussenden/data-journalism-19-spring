@@ -143,7 +143,7 @@ This uses the SUM function.  And inside of the parentheses, we put the cells we 
 
 Let's answer another question with a formula. How much estimated spending is projected to change between 2018 and 2023.
 
-In cell CI1, label the column “2018 to 2023 Change”.  In cell CI2, write a formula to subtract CI2 from CD2. A positive value will indicate growth from 2018 to 2023, a negative value a decline.  
+In cell CI1, label the column “2018 to 2023 Change”.  In cell CL2, write a formula to subtract CD2 from CI2. A positive value will indicate growth from 2018 to 2023, a negative value a decline.  
 
 See if you can work out the formula before looking at the image below.
 
