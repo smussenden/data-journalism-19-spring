@@ -242,4 +242,4 @@ Now drag the formula down to CO11.
 
 You've completed the exercise.  Save your Excel file one last time. Then upload it to the [ELMS page](https://umd.instructure.com/courses/1259604/assignments/4811976) for this assignment.   
 
-If you want to see a completed version of the spreadsheet, [download here](data/completed_hist03z1-fy2019v01.xlsx).
+If you want to see a completed version of the spreadsheet, [download here](data/_completed_hist03z1-fy2019v01.xlsx).
