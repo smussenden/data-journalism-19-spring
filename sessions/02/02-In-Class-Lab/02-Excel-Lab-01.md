@@ -91,7 +91,7 @@ Do this now.  Hover the mouse over cell A1.  Hold down control and right click t
 
 ![image](../02-files/image-12.png)
 
-In cell A1, type "record_number."  Put the number 1 in A2, and the number 2 in A2.  
+In cell A1, type "record_number."  Put the number 1 in A2, and the number 2 in A3.  
 
 ![image](../02-files/image-13.png)
 
