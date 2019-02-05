@@ -11,7 +11,7 @@ Graduates of this program have also reported that their experiences in this assi
 ## Essential Elements and Deadlines
 
 **Due by the Start of Session 4**
-Read this document in full, and take [this easy quiz](https://umd.instructure.com/courses/1251920/quizzes/1245612) on this assignment.
+Read this document in full, and take [this easy quiz](https://umd.instructure.com/courses/1259604/quizzes/1263660) on this assignment.
 
 **Session 4**
 The assignment will be introduced and discussed in detail.
