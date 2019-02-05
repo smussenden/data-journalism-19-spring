@@ -20,12 +20,11 @@ Claim a story from the list below by posting the headline on [this forum](https:
 
 Read the story.  Find the most relevant topical chapter of the Investigative Reporter’s Handbook (i.e. "Investigating the Judicial System" or "Investigating the Legislative Branch") and read it.
 
-Write a paper that answers the questions and prompts below. It should be between 2 and 3 pages, single-spaced, with margins no larger than one-inch, in 12 point Times New Roman.
+Write a forum post of approximately 400 and 600 words that answers the questions and prompts below.
 
 * Briefly summarize the main findings of the investigation.
 * Discuss the data the reporters used in their investigation. How did they get it (public records request, build the dataset, something else)? How did it contribute to the story? How central was it to their investigation? If available, provide a link to the data set they used in their investigation.
 * Discuss the reporting methods and techniques used by the reporters. Beyond data analysis, what else did they do to construct their story? What, if any, documents did they use?  What sources helped them make sense of the data and/or documents?    
-* How did their techniques fit the guidance in the handbook chapter about that subject, and the overall systematic approach discussed in the book?
 * How did they show the harm caused by the problem they discussed? What anecdotes or examples did they use? Did you find them effective?
 * Explain any methods, techniques or approaches in the book that you think the reporters could have used more effectively to improve the story.  
 * If you were asked to do a local version of this story tomorrow, what would you want to do similar to the project and what would you want to do differently?
