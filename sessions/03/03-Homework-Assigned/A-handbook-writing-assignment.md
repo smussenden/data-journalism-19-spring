@@ -29,5 +29,4 @@ Write a forum post of approximately 400 and 600 words that answers the questions
 * Explain any methods, techniques or approaches in the book that you think the reporters could have used more effectively to improve the story.  
 * If you were asked to do a local version of this story tomorrow, what would you want to do similar to the project and what would you want to do differently?
 
-## Turning it in
-Post the paper on this [ELMS assignment](https://umd.instructure.com/courses/1251920/assignments/4695647).
+Then respond to one other person's post about something you found interesting. 
