@@ -1,6 +1,6 @@
 # Investigative Reporter's Handbook Writing Assignment
 
-Claim a story from the list below by posting the headline on [this forum](https://umd.instructure.com/courses/1251920/discussion_topics/3487106).  If someone has already posted the story you selected, pick a new one.   
+Claim a story from the list below by posting the headline on [this forum](https://umd.instructure.com/courses/1259604/discussion_topics/3575075).  If someone has already posted the story you selected, pick a new one.   
 
 * [Buyouts Won’t Be the Answer for Many Frequent Flooding Victims | ProPublica | November 2017](https://features.propublica.org/houston-buyouts/hurricane-harvey-home-buyouts-harris-county/)
 * [Bussed Out: How America moves its homeless | Guardian US | December 2017](https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study)
@@ -29,4 +29,4 @@ Write a forum post of approximately 400 and 600 words that answers the questions
 * Explain any methods, techniques or approaches in the book that you think the reporters could have used more effectively to improve the story.  
 * If you were asked to do a local version of this story tomorrow, what would you want to do similar to the project and what would you want to do differently?
 
-Then respond to one other person's post about something you found interesting. 
+Then respond to one other person's post about something you found interesting.
