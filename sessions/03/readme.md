@@ -25,4 +25,3 @@
 
 * [Investigative Reporter's Handbook Assignment](03-Homework-Assigned/A-handbook-writing-assignment.md).
 * [Read up on Data Acquisition Project and take quiz](../../major-assignments/data-acquisition-project/readme.md).  
-* [Read about on Maryland Public Information Act and take quiz](03-Homework-Assigned/C-PIA-readings.md).
