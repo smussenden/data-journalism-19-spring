@@ -91,12 +91,12 @@ Do this now.  Hover the mouse over cell A1.  Hold down control and right click t
 
 ![image](../02-files/image-12.png)
 
-In cell A1, type "record_number."  Put the number 1 in A2, and the number 2 in A2.  
+In cell A1, type "record_number."  Put the number 1 in A2, and the number 2 in A3.  
 
 ![image](../02-files/image-13.png)
 
 
-Click on cell A1. Hold down shift, and the down arrow to select cells A1 and A2. A small green square will appear at the bottom right corner of A2. Hover over it until the black cross appears. Click it and drag to the last row of data, row 56, and release the cursor.  A sequence of numbers from 1 to 55 now appears in column A, one number per row.
+Click on cell A2. Hold down shift, and the down arrow to select cells A2 and A3. A small green square will appear at the bottom right corner of A3. Hover over it until the black cross appears. Click it and drag to the last row of data, row 56, and release the cursor.  A sequence of numbers from 1 to 55 now appears in column A, one number per row.
 
 
 **Freeze the top row** -- It can be useful to "freeze" the top row (or rows) and left column (or columns) so that when you scroll down or across data sets with lots of records or many columns.
@@ -115,7 +115,7 @@ Unlike numbers, dates or text, formulas always begin with an equals (=) sign.
 
 Suppose we want to add up the total estimated spending on national defense for the years 2018 through 2023. Let's do this now.   
 
-Click on cell CI1 and type "2018-2023 Total Estimate". In cell CJ2, add together all of the estimated values for national defense for the years 2018 through 2023, which are located in CD2, CE2, CF2, CG2, CH2 and CI2 by typing "=CD2+CE2+CF2+CG2+CH2+CI2".  
+Click on cell CJ1 and type "2018-2023 Total Estimate". In cell CJ2, add together all of the estimated values for national defense for the years 2018 through 2023, which are located in CD2, CE2, CF2, CG2, CH2 and CI2 by typing "=CD2+CE2+CF2+CG2+CH2+CI2".  
 
 ![image](../02-files/image-16.png)
 
@@ -143,7 +143,7 @@ This uses the SUM function.  And inside of the parentheses, we put the cells we 
 
 Let's answer another question with a formula. How much estimated spending is projected to change between 2018 and 2023.
 
-In cell CI1, label the column “2018 to 2023 Change”.  In cell CI2, write a formula to subtract CI2 from CD2. A positive value will indicate growth from 2018 to 2023, a negative value a decline.  
+In cell CI1, label the column “2018 to 2023 Change”.  In cell CL2, write a formula to subtract CD2 from CI2. A positive value will indicate growth from 2018 to 2023, a negative value a decline.  
 
 See if you can work out the formula before looking at the image below.
 
@@ -151,9 +151,9 @@ See if you can work out the formula before looking at the image below.
 
 It's =CI2-CD2. Copy the formula down, as before.
 
-### Step 5: Sorting
+### Step 6: Sorting
 
-Rearrange a spreadsheet's rows is one of the most powerful was to gain insight from your data.  
+Rearranging a spreadsheet's rows is one of the most powerful ways to gain insight from your data.  
 
 Before we learn to sort, we're going to make our task easier by deleting the bottom 20 rows of the sheet, which contain percentage data on each budget category. Don't worry, they're preserved in our original sheet.
 
@@ -179,7 +179,7 @@ On your own, can you figure out how to restore the original sort order?  Don't u
 
 Resort the sheet before moving to the next step.
 
-### Step 6: Calculating Percent Change
+### Step 7: Calculating Percent Change
 
 We've calculated the raw number change between 2018 and 2023.  Now let's calculate the percent change for the same time span.
 
@@ -206,7 +206,7 @@ In the popup window, select "Percentage", and keep the decimal places at 2.  The
 
 Now fill the formula down to compute percent change for every other row.
 
-### Step 7: Calculating Share of Total
+### Step 8: Calculating Share of Total
 
 Now let's calculate the share, in percentage terms, each budget category accounts for of all federal spending. That total is in row 33, called "Total Federal Outlays".
 
@@ -226,7 +226,7 @@ Fortunately, there's a way to always refer to a specific cell as we copy down a 
 
 Let's go back to our original formula in CN2 and modify it like so: =CI2/$CI$33.  The dollar signs say "as we copy the formula down, keep our total reference cell fixed on row CI33".  
 
-### Step 7: Calculating Rank
+### Step 9: Calculating Rank
 
 Now let's calculate the rank of the sub category items under the "Human Resources" category for 2023 (column CI).
 
@@ -238,8 +238,8 @@ Here’s what it says: find out how the value in cell CI4 ranks in size compared
 
 Now drag the formula down to CO11.
 
-### Step 8: All finished.  Turn it in.
+### Step 10: All finished.  Turn it in.
 
 You've completed the exercise.  Save your Excel file one last time. Then upload it to the [ELMS page](https://umd.instructure.com/courses/1259604/assignments/4811976) for this assignment.   
 
-If you want to see a completed version of the spreadsheet, [download here](data/completed_hist03z1-fy2019v01.xlsx).
+If you want to see a completed version of the spreadsheet, [download here](data/_completed_hist03z1-fy2019v01.xlsx).
