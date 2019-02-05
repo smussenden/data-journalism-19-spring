@@ -3,8 +3,8 @@
 ## Homework Due Before Start of Class
 *Unless otherwise advised, this homework was due at midnight before this class session.*
 
-* [A-Excel Assignment 1](../02-Homework-Assigned/A-excel-assignment-1.md).
-* [B-Reading and Writing Assignment on Data Journalism in the Newsroom](../02-Homework-Assigned/B-reading-writing-assignment.md).
+* [A-Excel Assignment 1](../02/02-Homework-Assigned/A-excel-assignment-1.md).
+* [B-Reading and Writing Assignment on Data Journalism in the Newsroom](../02/02-Homework-Assigned/B-reading-writing-assignment.md).
 
 ## Lecture and discussion
 
