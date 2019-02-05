@@ -69,7 +69,7 @@ Toyota Tacoma Double Cab long bed 4WD**
 6.  Imagine you are writing a lede from your analysis for a national news organization. What would it say?
 **Lots of possibilities.
 **The Hyundai Accent had the highest rate of driver deaths in a comprehensive analysis of vehicle safety by an insurance industry group released Tuesday. OR
-**Looking for the safest possible car?  You might want to avoid the tiniest automobiles. "Minis" -- including the Kia Rio and Hyundai Accent -- had the highest rate of driver deaths in a vehicle safety analysis released by an insurance industry group Tuesday.**
+**Mini cars -- including the Kia Rio and Hyundai Accent -- had the highest rate of driver deaths in a vehicle safety analysis released by an insurance industry group Tuesday.**
 ## State Population Change
 
 For this part of the assignment, download the spreadsheet [states2016.xlsx](data/states2016.xlsx).

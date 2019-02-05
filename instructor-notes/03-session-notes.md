@@ -2,17 +2,14 @@
 
 # NOTES REVIEWS
 
---The lede reviews was pretty boring. Little engagement.  So need to find a better way to do that.
---Also need to find a better way to set up the "using records for something other than their purpose" discussion.
---Eliminate the priceonomics story
 --Consider killing investigative reporters's handbook except for chapter 1.  And assign more readings.
 --The discussion of individual stories was a HIT.
 
-CLASS SETUP -- READ FORUM POSTS.
+CLASS SETUP -- READ FORUM POSTS and Fill Out.
 
 ### Agenda
 
-* Review Excel Assignment 1, call people up.
+* Review Excel Assignment 1, call people up to discuss.
 * Takeaways from Sun-Sentinel Speeding Cops Story
 * Takeaways from KC Star Police Pursuits
 * Discuss Miami Herald Dead Voters Story
@@ -27,19 +24,47 @@ CLASS SETUP -- READ FORUM POSTS.
 
 Review step by step.
 
-Summarize ledes.  One of two categories.  Small cars or Hyuandai Accent.  Which is better.
+**Summarize ledes.**  
+* One of two categories.
+  * Hyundai accent highest rate.  
+  * Small cars had the highest rate of fatal crashes.
+* Which is better?
+  * Both are newsworthy.
+  * Small cars is a bigger group -- next level analysis.  IDs bigger trend.
+  * Is Hyundai really that different than Kia?  
+* Precision matter.
+  * Some of you said Hyundai had more fatal crashes than other cars.  NOPE.  Higher rate.
+* But precision doesn't always belong in your lede.
+  * Keep it simple. Avoid numbers in the lede. Use trends.  
+  * **The Hyundai Accent had the highest rate of driver deaths in a comprehensive analysis of vehicle safety by an insurance industry group released Tuesday.**
+  * **Mini cars -- including the Kia Rio and Hyundai Accent -- had the highest rate of driver deaths in a vehicle safety analysis released by an insurance industry group Tuesday.**
 
-**QUESTION: Would you use this data?**
+**QUESTION: How did they get these numbers? Should you use them**
 
-Notes: Pull up the original sheet.  I gave you this data.  Show range.  95 percent of the time, will be somewhere within this range.  Big variation.  Would you be comfortable using it.  How would you address in a story.
+They are estimates dervied from sampling. 95 percent confidence. Valid statistical methodology, but not as precise as reported
 
-My Take: Sure, if it's transparent, and if I'd talked with the people who made the data to make sure I understand how it could be used responsibly.
+"There is good reason to believe that the population mean they derived is accurate, but could be anywhere between that range, with strongest likelihood at the value they derived."
+
+"If repeated samples were taken and the 95% confidence interval was computed for each sample, 95% of the intervals would contain the population mean.
+
+How would you address in a story?
+
+My Take: Sure, if it's transparent, and if I'd talked with the people who made the data to make sure I understand how it could be used responsibly.  Might overwhelm readers.
 
 *Population*
 
 Review step by step.
 
-What's the news?
+What's the news? Go around and ask a few people.
+
+5. Imagine you are writing a lede for a national news organization the day this data is released? What would it say?  
+**Lots of possibilities.
+Washington, D.C. grew faster than any U.S. state between 2010 and 2016, according to new U.S. census figures released Tuesday, while Illinois, Vermont and West Virginia all lost population during that period.
+Texas added nearly three million people between 2010 and 2016 -- more than any other state -- according to new U.S. Census figures released Tuesday.**
+**Ideally you'd also have some sense of WHY the thing you're describing happened, but that may be beyond the scope of this assignment.**
+6. Imagine you are writing a lede for the Baltimore Sun? What would it say?
+**Maryland's population grew by nearly a million people between 2000 and 2016, according to new U.S. Census figures released Tuesday. OR
+**Maryland's population grew by nearly five percent between 2010 and 2016 to remain the 19th largest state in the U.S., according to new U.S. Census figures released Tuesday.**
 
 *HealthCare*
 GO OVER ALL OF THESE
@@ -82,11 +107,13 @@ Who wants to summarize the main point, set us up?
 
 Hundreds of police crashes in the KC Metro area, with at least 23 dead, many for pointless reasons.
 
-Anyone else?
+How did they bring the story to life?
 
 Who wants to explain how they got the data?
 
 Anyone Else?
+
+What issues were there?
 
 * Combo of FARS, public records requests to police departments, news reports, other sources.  
 * FARS woefully undercounts. Several agencies refused to comply.  
@@ -107,6 +134,8 @@ Anyone else?
 Who wants to explain how they did the story, in terms of data?
 
 Anyone Else?
+
+Anyone have a problem with this approach?
 
 * For the moment, let's set aside the question of whether felons should be able to vote.  I think they should, a lot of the charges that keep people from voting are BS drug charges.
 * For my taste, story is a little "felon panicky".
@@ -138,7 +167,7 @@ Q: Is it fair to say problem doesn't exist because there aren't a lot of news re
   * Listservs are still a thing, though!
 * We have you read it, because the process still holds.
 * Here's what I want you to take away.
-* This is a methodological process, doing data-driven investigative reporting. Casey: "My biggest take away from the opening chapters of the Investigate Reporter's Handbook is that investigative reporting, is a long, drawn-out, careful and thorough process."
+* This is a methodological process, doing data-driven investigative reporting.
 * This process lets you get deeper stories – exposing and documenting problems not known to the public, or assembling facts that provide deeper understanding of what is known to public.
 * Q: How many of you read the zoo scandal story and thought: this is too much?
 * Aaron: Tell your podcast story about scanning documents.
