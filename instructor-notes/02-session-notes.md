@@ -1,6 +1,5 @@
 # Session 02 Instructor Notes
 
-FIX SHEET SO IT'S NOT FREEZE PANED
 FIX IMAGE 17 -- has wrong totals!
 
 Took about 1 hour for all students to finish excel assignment and move on to homework.
