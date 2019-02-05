@@ -1,4 +1,5 @@
-## Excel Assignment 1   
+## Excel Assignment 1
+## Answer Key
 
 ## Objective
 
@@ -44,12 +45,31 @@ Set up the spreadsheet as instructed in today's lab.
 ### Vehicle Death Rates Spreadsheet Questions
 
 1.  Sort the spreadsheet in descending order to determine which vehicle had the highest "overall" death rate.  What is the make and model of the vehicle?  What is the rate?
+**Hyundai Accent,  104 driver deaths per million registered vehicle years.**
 2.  Sort the spreadsheet in ascending order to determine which vehicle had the lowest "overall" death rate.  What is the make and model of the vehicle?  What is the rate?
-3.  Create a new column called SV_NO_ROLL.  Write a formula to compute the rate of non-rollover single-vehicle crashes.  Then sort the sheet on that column in descending order to determine which vehicle had the highest rate of non-rollover single-vehicle crashes.  What is the make and model? What is the rate?
-4.  Create a new column called Overall_Rank. Write a formula to compute the rank of the values in the Overall column.  What is the make and model of the 5th ranked automobile (with the top ranked automobile having the highest overall crash rate, not the lowest)?    
-5.  At the bottom of the spreadsheet, in row 211, add a row with the label "TOTALS" in the leftmost column.  Write a formula in the appropriate column to calculate the total number of registered vehicle years for all the vehicles in the dataset.  What is the total?
-6.  Imagine you are writing a lede from your analysis for a national news organization. What would it say?
+**0 driver deaths per million vehicle years
+Lexus CT 200h      
+Audi A6 4WD      
+BMW 535i/is 2WD      
+BMW 535xi 4WD      
+Volkswagen Tiguan 2WD     
+Jeep Cherokee 4WD     
+Mazda CX-9 2WD     
+Lexus RX 350 2WD     
+Mercedes-Benz M-Class 4WD      
+Audi Q7 4WD      
+Toyota Tacoma Double Cab long bed 4WD**
 
+3.  Create a new column called SV_NO_ROLL.  Write a formula to compute the rate of non-rollover single-vehicle crashes.  Then sort the sheet on that column in descending order to determine which vehicle had the highest rate of non-rollover single-vehicle crashes.  What is the make and model? What is the rate?
+**Subaru Impreza 4WD, 48 driver deaths per million vehicle years**
+4.  Create a new column called Overall_Rank. Write a formula to compute the rank of the values in the Overall column.  What is the make and model of the 5th ranked automobile (with the top ranked automobile having the highest overall crash rate, not the lowest)?
+**Use RANK(). Nissan Versa**
+5.  At the bottom of the spreadsheet, in row 211, add a row with the label "TOTALS" in the leftmost column.  Write a formula in the appropriate column to calculate the total number of registered vehicle years for all the vehicles in the dataset.  What is the total?
+**79,059,505 or 79.1 million**
+6.  Imagine you are writing a lede from your analysis for a national news organization. What would it say?
+**Lots of possibilities.
+**The Hyundai Accent had the highest rate of driver deaths in a comprehensive analysis of vehicle safety by an insurance industry group released Tuesday. OR
+**Looking for the safest possible car?  You might want to avoid the tiniest automobiles. "Minis" -- including the Kia Rio and Hyundai Accent -- had the highest rate of driver deaths in a vehicle safety analysis released by an insurance industry group Tuesday.**
 ## State Population Change
 
 For this part of the assignment, download the spreadsheet [states2016.xlsx](data/states2016.xlsx).
@@ -66,12 +86,25 @@ Set up the spreadsheet as instructed in today's lab.
 
 ### Population Change Spreadsheet Questions
 
-1. At the bottom of the sheet, in row 53, add a row for totals.  Calculate the U.S. population totals for each year.
-2. Add a column for “change 2010 – 2016” and calculate the total population change (number of people) for each state between those years. Sort the sheet to determine the state that had the greatest increase in number of people, and the state with the largest decrease.  List the states and the number change here.
+1. At the bottom of the sheet, in row 53, add a row for totals.  Calculate the U.S. population totals for each year. List them here.
+**2016: 323.1 million
+2010: 308.7 million
+2000: 281.4 million**
+2. Add a column for “change 2010 – 2016” and calculate the total population change (number of people) for each state between those years. Sort the sheet to determine the state that had the greatest increase in number of people, and the state with the largest decrease.  List the states and the number change here. Note: this is NOT percent change.
+**Texas: 2.7 million.
+Illinois -29,093**
 3. Add a column for “pct change 2010 – 2016” and calculate the percent change between those years. What state had the greatest percentage increase in population? What state had the greatest percentage decrease in population? List the states and the values here.
+**D.C. 13.20 percent, OR if you don't count D.C. as a state (I do!), it's North Dakota, 12.69 percent.  West Virginia lost 1.18 percent of population.**
 4. Add a column for “share of total 2016” and calculate each state’s share of the U.S. total for 2016.  What state had the third greatest share of the U.S. Total? What was that share amount?
+**Florida 6.38 percent**
 5. Imagine you are writing a lede for a national news organization the day this data is released? What would it say?  
+**Lots of possibilities.
+Washington, D.C. grew faster than any U.S. state between 2010 and 2016, according to new U.S. census figures released Tuesday, while Illinois, Vermont and West Virginia all lost population during that period.
+Texas added nearly three million people between 2010 and 2016 -- more than any other state -- according to new U.S. Census figures released Tuesday.**
+**Ideally you'd also have some sense of WHY the thing you're describing happened, but that may be beyond the scope of this assignment.**
 6. Imagine you are writing a lede for the Baltimore Sun? What would it say?
+**Maryland's population grew by nearly a million people between 2000 and 2016, according to new U.S. Census figures released Tuesday. OR
+**Maryland's population grew by nearly five percent between 2010 and 2016 to remain the 19th largest state in the U.S., according to new U.S. Census figures released Tuesday.**
 
 ### Health Insurance Coverage
 
@@ -92,14 +125,31 @@ Set up the spreadsheet as instructed in today's lab.
 
 To do this analysis, add new columns or rows as needed to derive the correct answers.
 
-1.  Which state has the second highest percentage of people covered by Medicare?  What's your best educated guess for why this might be?
+1.  Which state has the third highest percentage of people covered by Medicare?  What's your best educated guess for why this might be?
+**Florida. Has lots of old people. Updated question from second to third**.
+
 2.  Which state has the highest percentage of uninsured people? What's your best educated guess for why this state has the highest percentage? Where does Maryland rank?
+**Texas.  Think it's because it didn't expand access after implementation of Obamacare, but need to check**.
+
 3.  How many people in the United States have insurance from any source?  How many are not covered at all?
-4.  How many people in the United States have "Other Public" insurance?  There are several states that have "N/A" as a value under "Other Public." Explain the significance of these N/A values, and say how you think they will affect your ability to create totals from this column.  
+**It's possible to get different answers depending on how you calculate it.
+
+* Total Insured Way A (Total Column I - Total Column H)	292.3 million
+* Total Insured Way B	(Total Column C - Total Column G) 291.6 million
+* Total Uninsured Way A	(Total Column H) 28.05 million
+* Total Uninsured Way B	(Total Column I - Total Sum Column C - Column G) 28.72**
+
+4.  How many people in the United States have "Other Public" insurance?  There are several states that have "N/A" as a value under "Other Public." Explain the significance of these N/A values, and say how you think they will affect your ability to create totals from this column.
+**5.53 million. Remember: these are estimates.  According to the documentation, "estimates with relative standard errors greater than 30% are not provided." Excel allows you to total these, but any total you get will be an estimate.  Possibly hundreds of thousands of missing people here.**
+
 5.  Create a column with a formula for each state to add up all of the original columns except for "Total", and then subtract the Total. In a perfect world, each of these values should be 0. How many states add up to something other than 0?  What's your best educated guess for why some don't result in 0, especially those that are much, much larger than 0. Is there a pattern you can see?
-6.  What percentage of people in the U.S. are not covered by insurance?   
+**35 states have a non-zero value. Most of these are off by 100, indicating that this is the result of a rounding error in each category.  The biggest ones all have N/A in "Other Public", which indicates that they are factored into the computed Total column, even though they are missing in Other Public.**
+6.  What percentage of people in the U.S. are not covered by insurance?  
+**8.76 percent or just under 1 in 10**.
 7.  It's February 2017.  This data set detailing insurance coverage sources by state in 2016 was just released, and you are a reporter for the New York Times, writing a story about national trends in health insurance coverage.  What's the most interesting lede you can write that is supported by your analysis?  Feel free to do additional analysis beyond the questions listed above if you like.
+**A decade after the expansion of health insurance under the Affordable Care Act, about 10 percent of people in the U.S. still don't have health insurance, according to new health care data released Tuesday, with the highest levels of uninsured in states like Texas that didn't expand health care access for poor people under the new law.**
 8.  Now imagine the same scenario, but you are a reporter for the Baltimore Sun, writing a similar story for an audience of Marylanders. What's the most interesting lede you can write?
+**A decade after the expansion of health care under the Affordable Care Act, about six percent of Marylanders are still uninsured, lower than the national average, according to new health care data released Tuesday.**
 
 ## You're done!
 
