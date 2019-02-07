@@ -9,7 +9,7 @@
 ## Lecture and discussion
 
 * Discussion and mini-presentation on stories in [Investigative Reporter's Handbook Assignment](../03/03-Homework-Assigned/A-handbook-writing-assignment.md).
-* Introduce [Data Acquisition Project](../03/03-Homework-Assigned/B-data-acquisition-project.md).
+* Introduce [Data Acquisition Project](../../major-assignments/data-acquisition-project/readme.md).
 
 ## In-class lab work
 *Unless otherwise advised, in-class lab work is due by the end of this class session.*   
