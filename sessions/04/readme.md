@@ -9,6 +9,11 @@
 ## Lecture and discussion
 
 * Discussion and mini-presentation on stories in [Investigative Reporter's Handbook Assignment](../03/03-Homework-Assigned/A-handbook-writing-assignment.md).
+  * What was the central finding of the story?
+  * What data did they use? How did they do their analysis?
+  * What did they do to bring the story to life?
+  * Everyone: How could you use similar data or similar methodology to do your own story?  
+
 * Introduce [Data Acquisition Project](../../major-assignments/data-acquisition-project/readme.md).
 
 ## In-class lab work

@@ -1,21 +1,114 @@
-# SESSION 5 OUTLINE
+# SESSION 5 OUTLINE -- THIS HASN'T BEEN UPDATED YET FOR SPRING 19
 
 NOTES: Need to improve this, with notes about how these could be used in stories.
-Need to confirm that databases exist for some of these.  
-Could be good to do with previous projects. 
-## Openers
-* Have to leave at 11, apologies.
-* Homework (Excel. Readings. Memo.)
+Could be good to do with previous projects.
+
+## Excel Assignment 2
+* Does anyone have any specific questions or concerns about Excel Assignment 2?
+* In normal full session, we would review this a bit.
+* In interest of time in shortened session, skip over it.
 
 ## 38 Excuses
 * In normal full session, would review some of what they wrote about.
 * In interest of time tomorrow, skip this.  
 * Other than to note that every single one of them that I read by 9 p.m. last night was outstanding.  Respectful, guided by the law, smart.  Very proud of you all.  
 
-## Excel Assignment 2
-* Does anyone have any specific questions or concerns about Excel Assignment 2?
-* In normal full session, we would review this a bit.
-* In interest of time in shortened session, skip over it.
+### PIA Discussion (NOTE I've moved this from session 4 for spring 19)
+
+**Pull up PIA reading**
+
+**SHOW that manual starts on page 1**
+
+**SHOW that the law starts in Appendix E.**
+
+**This document is your friend.  It will save you.**
+
+**What is a public record in Maryland?**
+* Documents, images, computer files, etc., created or maintained by a government agency that are not specifically banned from disclosure by the law.
+* PIA LAW (E-7). § 4-101. DEFINITIONS. J(1).
+
+**You ask for a database of all salary information of all county employees in PG. They say no way, that’s private stuff. Take a hike.**
+
+**Are they right? How do you figure out how to respond?**
+* Eventually get around to "check the law"
+* Restriction on release of financial information does not apply to salary of a public employee.
+* PIA LAW (E-42). § 4-336. FINANCIAL INFORMATION.
+* Also PIA LAW(E-8). § 4-101. DEFINITIONS. J(2).
+* Also Manual, Chapter 1, Page 5.
+
+**Answer is still no.  The database contains private information for employees - home address, telephone, SSN. How do you respond?**
+* PIA LAW (E-7) § 4-101. DEFINITIONS. h(1) defines private info. It includes address, telephone, SSN.
+* PIA LAW (E-39)§ 4-331. INFORMATION ABOUT PUBLIC EMPLOYEES. A custodian shall deny inspection of the part of a public record that contains the home address or telephone number.
+* Also, Manual, Chapter 3, Page 18.
+* You Should Point out that only the "part" with private info is not public.  
+* PIA LAW (E-18) § 4-203.  TIMELINESS OF DECISION ON APPLICATION. c(1)(ii). "allow inspection of any part of the record that is subject to inspection."
+* This is confusing, so go here. Manual Chapter 3, Page 43. Severability of Exempt From Non-exempt. "The fact that some portions of a particular record may be exempt from disclosure does not mean that the entire record may be withheld."
+* You ask for all fields in database not exempt from disclosure.
+
+**Okay, they say, "You may be right. But we can't do it, we're too busy."  What does the law say about agencies not fulfilling requests because they're too busy? How much time do they have? What do you tell them?**    
+
+* PIA LAW (E-17)§ 4-203. TIMELINESS OF DECISION ON APPLICATION.
+* Also, Manual, Chapter 4, Page 2 . Time for Response
+* 30 days max to grant or deny
+* Must produce within 30 days
+* If deny, must then produce a letter within 10 (more) days with reasons why – and legal authority – and remedies
+* If you give it to wrong person, they have 10 days to let you know.
+
+**They then say, before we give it to you, we need to know what you're going to do with it?  Do you have to tell them? What does the law say?**
+* PIA LAW (E-19) § 4-204. IMPROPER CONDITION ON GRANTING APPLICATION. A.
+* Manual, Chapter 2, Page 1.
+* They can ask, but you don't have to tell them, and they aren't supposed to consider that in deciding whether to grant request.
+
+**How forceful should you be here? Should you tell them?**
+* They can consider those things if you request a fee waiver.  
+* PIA LAW (E-19) § 4-204. IMPROPER CONDITION ON GRANTING APPLICATION. A.
+* Manual, Chapter 2, Page 2
+
+**What should you tell them?**
+* Let's say you got a tip that they're paying women 50 percent of what men make for same job in certain departments.  And that's why you're asking for the database.  Should you tell them that?
+* Probably not. Maybe just say important for us to have an understanding of how people are paid.
+* And when you put it in writing, probably just say "circulating information about the affairs of government is in the public interest"
+
+**You finally have them on board. They have it in a database, and they can easily redact the personal information. But then they tell you that they're going to give you a printout of a spreadsheet.  Is that ok? What do you say?**
+* Manual, Chapter 6, Page 2.
+* PIA LAW (E-20) § 4-205. COPIES; PRINTOUTS; PHOTOGRAPHS; ELECTRONIC FORMAT. C(1)
+* If they have it in a "searchable and analyzable" format like a database, they have to give it to you that way, if you ask for it that way.
+
+**What if they say that you cannot have the database because they have contracted with a private company to maintain it for them?**
+* Manual, Chapter 1, Page 7.
+* They're still public records.
+
+**You've asked for a fee wavier, they say no.**
+* PIA LAW (E022) § 4-206. FEES. e(2)(ii)
+* Manual, Chapter 7, Page 3.
+* "A waiver may be appropriate, for example, when a requester seeks information
+for a public purpose, rather than a narrow personal or commercial interest, because a
+public purpose justifies the expenditure of public funds to comply with the request."
+
+**They end up denying your fee waiver.  They tell you it's going to take an employee one hour to do redact the records from a copy of a database and email a zip file to you.  They want to charge you $14,000.**
+* PIA LAW (E-22) § 4-206. FEES. a(3).
+* Fees must be reasonable, covering actual costs.
+* PIA LAW (E-22) § 4-206. FEES. c.
+"The official custodian may not charge a fee for the first 2 hours that are needed to search for a public record and prepare it for inspection."
+* Manual, Chapter 7, Page 1.
+
+**This process is shockingly common.  Why do they do this? These aren't bad people, usually.**
+* They're afraid.
+* They're afraid of your story.
+* They're afraid of their bosses.
+* They're afraid information getting out may hurt people.
+* They're afraid of screwing up and release non-public information.
+* They think they're following the law, in which case it's your job to educate.
+
+**How should you act?**
+* Polite
+* Professional
+* Informed
+* Seeking common ground
+* Firm
+* Never Angry.
+* You are representing yourself and your organization.
+
 
 ## Clues to Government Databases
 
