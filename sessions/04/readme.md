@@ -22,4 +22,4 @@
 * [Read about on Maryland Public Information Act and take quiz](../04/04-Homework-Assigned/C-PIA-readings.md).
 * [Excel Assignment 2](04-Homework-Assigned/A-excel-assignment-2.md).
 * [Read chapters 1 and 2 in Data Literacy: A User's Guide and take quiz](../04/04-Homework-Assigned/B-data-literacy-reading-quiz-ch-1+2.md)
-* Read [Poynter's 38 Excuses and contribute to discussion](https://umd.instructure.com/courses/1251920/discussion_topics/3490012)
+* Read [Poynter's 38 Excuses and contribute to discussion](https://umd.instructure.com/courses/1259604/discussion_topics/3575074)
