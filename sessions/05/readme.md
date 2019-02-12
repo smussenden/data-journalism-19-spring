@@ -1,5 +1,3 @@
-## Homework assigned at the end of this class
-
 # Class Guide | Session 05
 
 ## Homework Due Before Start of Class
