@@ -8,8 +8,8 @@
 * Excel assignment 2 sheet key and link to it.
 
 ## Print before Class
-* List of agencies from database hunt
 * this outline
+* List of agencies from database hunt
 * database hunt assignment
 * Excel assignment 2 key
 
@@ -178,7 +178,7 @@ Ask them: what are some of the other places to look for clues? In the readings? 
 
 ## Open Data Sites
 
-We've all got the data.maryland.gov in front of us.  Let's take a minute and find a dataset that we think is a clue to another database, maybe one with more information.
+We've all got the data.maryland.gov in front of us.  Let's take a minute and find a dataset that we think is a clue to another database, maybe one with more information. Work with person next to you.
 
 Why do you think that?
 
@@ -194,7 +194,7 @@ Let's go to this listing of Maryland state agencies.  Let's spend two to three m
 
 http://www.maryland.gov/pages/agency_directory.aspx  
 
-## Web Forms
+## Web Forms - who has an example of a form. 
 * https://efds.ethics.state.md.us/
 * https://mmcc.health.maryland.gov/Registry/LandingPage.aspx
 * https://licensingportal.mdsp.maryland.gov/MSPBridgeClient/#/home
