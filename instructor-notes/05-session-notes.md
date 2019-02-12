@@ -3,21 +3,23 @@
 ## To read
 * their 38 excuses forum post
 
-## To upload
+## To upload to seesion four folder
 * Excel assignment 2 key and link to it
 * Excel assignment 2 sheet key and link to it.
 
 ## Print before Class
 * this outline
-* List of agencies from database hunt
+* class session 5 guide
+* List of agencies from database hunt AND CUT OUT.
 * database hunt assignment
 * Excel assignment 2 key
+* 38 excuses
 
-## Notes
-* I've moved Memo 1 for data acq project till Tuesday to give you more time. Expecting something good!
+## Notes for Spring 2019
+* I've moved Memo 1 for data acq project till Tuesday Session 7 to give you more time. Expecting something good!
 
 ## Excel Assignment 2
-* Review this in class.
+* Review the assignment in class.
 
 ### PIA Discussion
 
@@ -194,7 +196,7 @@ Let's go to this listing of Maryland state agencies.  Let's spend two to three m
 
 http://www.maryland.gov/pages/agency_directory.aspx  
 
-## Web Forms - who has an example of a form. 
+## Web Forms - who has an example of a form.
 * https://efds.ethics.state.md.us/
 * https://mmcc.health.maryland.gov/Registry/LandingPage.aspx
 * https://licensingportal.mdsp.maryland.gov/MSPBridgeClient/#/home
