@@ -25,4 +25,4 @@
 * Finish [Excel Assignment 3](05-Homework-Assigned/A-excel-assignment-3.md).
 * [Read chapter 3 in Data Literacy: A User's Guide and take quiz](05-Homework-Assigned/B-data-literacy-reading-quiz-ch-3.md).
 * [Read crime in context and post on forum](05-Homework-Assigned/C-crime-in-context-discussion.md).
-* Look through [The great database hunt](05-In-Class-Lab/05-database-hunt.md).  Pick out three your think are interesting. Explain why they contain potentially newsworthy information that you could use for a news story, and why you'd be interested in requesting them.
+* Look through [The great database hunt](05-In-Class-Lab/05-database-hunt.md).  Pick out three your think are interesting. Explain why they contain potentially newsworthy information that you could use for a news story, and why you'd be interested in requesting them. Write about 75 to 100 words per link.
