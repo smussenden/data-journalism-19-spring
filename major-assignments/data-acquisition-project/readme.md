@@ -16,7 +16,7 @@ Read this document in full, and take [this easy quiz](https://umd.instructure.co
 **Session 4**
 The assignment will be introduced and discussed in detail.
 
-**Due by Start of Session 6**
+**Due by Start of Session 7**
 Memo 1 (approximately 400 words as a forum post) is due indicating your main choice for a database to pursue and your reasons for choosing it; you must also indicate two alternates. Your memo (and all memos going forward) should also include a link to a Google Spreadsheet log of contacts (email, phone, in-person) and attempted contacts of officials in the course of your reporting, in the manner described below. This is separate from the one-page total.
 
 Some things to keep in mind at this point:

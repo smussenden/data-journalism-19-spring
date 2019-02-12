@@ -1,19 +1,13 @@
 # SESSION 5 OUTLINE -- THIS HASN'T BEEN UPDATED YET FOR SPRING 19
 
-NOTES: Need to improve this, with notes about how these could be used in stories.
-Could be good to do with previous projects.
+## Notes
+* I've moved Memo 1 for data acq project till Tuesday to give you more time. Expecting something good!
+
 
 ## Excel Assignment 2
-* Does anyone have any specific questions or concerns about Excel Assignment 2?
-* In normal full session, we would review this a bit.
-* In interest of time in shortened session, skip over it.
+* Review this in class.
 
-## 38 Excuses
-* In normal full session, would review some of what they wrote about.
-* In interest of time tomorrow, skip this.  
-* Other than to note that every single one of them that I read by 9 p.m. last night was outstanding.  Respectful, guided by the law, smart.  Very proud of you all.  
-
-### PIA Discussion (NOTE I've moved this from session 4 for spring 19)
+### PIA Discussion
 
 **Pull up PIA reading**
 
@@ -108,6 +102,9 @@ public purpose justifies the expenditure of public funds to comply with the requ
 * Firm
 * Never Angry.
 * You are representing yourself and your organization.
+
+## 38 Excuses
+
 
 
 ## Clues to Government Databases
