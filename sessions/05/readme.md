@@ -12,7 +12,7 @@
 
 * Review of Excel Assignment 2. [Answer Key Link](../04/04-Homework-Assigned/A-excel-assignment-2-key.md), [Spreadsheet Key Link](../04/04-Homework-Assigned/data/school_lunch_2018_key.xlsx) - 15 minutes.
 * Using Maryland's Public Information Act. [Link to PIA Manual](http://www.marylandattorneygeneral.gov/OpenGov%20Documents/PIA_manual_printable.pdf) - 20 minutes.
-* Review of 38 excuses public officials use. [Link](https://umd.instructure.com/courses/1259604/discussion_topics/3575074) - 10 minutes.
+* Review of 38 excuses public officials use. [Link](https://umd.instructure.com/courses/1259604/discussion_topics/3575074) - 5 minutes.
 * Looking for clues that government databases exist. - 30 minutes
 
 ## In-class lab work
