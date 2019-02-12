@@ -11,7 +11,7 @@ Because of that, it more closely replicates the process of using data in the new
 
 ## Turning it in
 
-Upload both your edited spreadsheet and a text file with your findings to the [ELMS course page for this assignment](https://umd.instructure.com/courses/1251920/assignments/4732120).          
+Upload both your edited spreadsheet and a text file with your findings to the [ELMS course page for this assignment](https://umd.instructure.com/courses/1259604/assignments/4811979).          
 
 ## Analyzing presidential politics in Maryland
 
@@ -22,9 +22,9 @@ It has two tabs.  The first tab, 2016, has county-by-county totals for each majo
 ## Data Cleaning and Extra Credit(!)
 The data was scraped, cleaned and summarized by your professor from these Maryland Board of Elections pages: [2016](http://elections.maryland.gov/elections/2016/results/general/gen_detail_results_2016_4_BOT001-.html), [2012](http://elections.maryland.gov/elections/2012/results/general/gen_detail_results_2012_4_BOT001-.html).  
 
-If you have time, I would highly recommend trying to build your own spreadsheets from this raw data, instead of using mine, by copying and pasting these tables into Excel, deleting columns and rows as needed, and adding all of the "other/write-in" votes into one column. In fact, I will give you an additional 20 percentage points on your assignment if you a) tell me you built your own and b) show evidence of your process in a spreadsheet.
+If you have time, I would highly recommend trying to build your own spreadsheets from this raw data, instead of using mine, by copying and pasting these tables into Excel, deleting columns and rows as needed, and adding all of the "other/write-in" votes into one column. In fact, I will give you double points for this assignment if you a) tell me you built your own and b) show evidence of your process in a spreadsheet.
 
-Welcome to data journalism!   
+Welcome to data journalism! A lot of the work of data journalism, as we'll see later in class, involves preparing data before we can analyze it.    
 
 ## Set up the sheet.
 
@@ -46,6 +46,6 @@ In a text file, write up the three most interesting things you discovered in you
 
 Then write up one of those findings as the top of a story, with a lede and one or two supporting sentences.  
 
-Upload the text file, and your edited spreadsheet, to this [ELMS page](https://umd.instructure.com/courses/1251920/assignments/4732120).
+Upload the text file, and your edited spreadsheet, to the ELMS page linked above. 
 
 -30-

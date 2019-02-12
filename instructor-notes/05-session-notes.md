@@ -1,8 +1,20 @@
 # SESSION 5 OUTLINE -- THIS HASN'T BEEN UPDATED YET FOR SPRING 19
 
+## To read
+* their 38 excuses forum post
+
+## To upload
+* Excel assignment 2 key and link to it
+* Excel assignment 2 sheet key and link to it.
+
+## Print before Class
+* List of agencies from database hunt
+* this outline
+* database hunt assignment
+* Excel assignment 2 key
+
 ## Notes
 * I've moved Memo 1 for data acq project till Tuesday to give you more time. Expecting something good!
-
 
 ## Excel Assignment 2
 * Review this in class.

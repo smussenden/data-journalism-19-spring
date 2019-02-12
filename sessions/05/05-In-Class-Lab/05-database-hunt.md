@@ -21,7 +21,7 @@ Using all of your Internet research skills, scour these sites for some of the th
 
 ### Forum posts
 
-There is a discussion forum for this lab.  
+There is a [discussion forum for this lab on ELMS](https://umd.instructure.com/courses/1259604/discussion_topics/3575072).
 
 When you find a clue to a potential database, create a new discussion post and post the link to the page (or form) where you found the information, along with a sentence (two max) describing the piece of evidence.  
 
@@ -56,3 +56,46 @@ Work with your partner and share what you're finding as you go.  If you find a g
 * Baltimore City
 * Montgomery County
 * Howard County
+
+
+## List of Agencies for Sean to print
+
+### Assessments and Taxation
+
+### Agriculture
+
+### Education
+
+### Department of the Environment
+
+### General Services
+
+### Health
+
+### Housing and Community Development
+
+### Labor, Licensing and Regulation
+
+### Natural Resources
+
+### Transportation
+
+### Maryland State Police
+
+### Commerce
+
+### Juvenile Services
+
+### Maryland Emergency Management Agency
+
+### Anne Arundel County
+
+### PG County
+
+### Baltimore County
+
+### Baltimore City
+
+### Montgomery County
+
+### Howard County
