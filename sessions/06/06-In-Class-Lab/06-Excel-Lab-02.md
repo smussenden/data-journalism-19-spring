@@ -9,7 +9,7 @@ This lab uses publicly available data from [Baltimore’s open data portal](http
 
 ### How to Submit
 
-You will submit the edited Excel file that you create during the lab on the [ELMS page for this lab](https://umd.instructure.com/courses/1251920/assignments/4734555?module_item_id=9336699).  
+You will submit the edited Excel file that you create during the lab on the [ELMS page for this lab](https://umd.instructure.com/courses/1259604/assignments/4811982).  
 
 You will also submit a text file with notes you are asked to create at certain points.  These don't need to be in story form, I just want to see your thinking. Pretend you are sending a short email to your editor with your findings, to convince them you've found the seed of a story worth pursuing.  
 

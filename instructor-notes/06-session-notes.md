@@ -40,6 +40,8 @@
 
 ## Crime in Context - 5 minutes
 * What were main takeaways here?
+* After reading this piece, is it reasonable to conclude that violent crime, including homicide, is "up" in Baltimore in recent years? Why or why not? Could you find evidence to reach an opposing conclusion?
+* It has spiked recently, for certain crimes, like homicide.  Over the Medium and long term, violent crimes are down.  How you frame the story matters?  More data is usually more accurate than less data. 
 
 ## Today's Lab - 55 minutes
 * Today we're going to work with open data on the web.
