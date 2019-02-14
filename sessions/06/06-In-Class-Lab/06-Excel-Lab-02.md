@@ -271,4 +271,4 @@ Now, on your own, create a new column called "Assault".  Write an IF function th
 
 # Step 11: Submit your work
 
-Submit your edited Excel file and your notes file on the [ELMS page for this lab](https://umd.instructure.com/courses/1251920/assignments/4734555?module_item_id=9336699).
+Submit your edited Excel file and your notes file on the ELMS page linked above.
