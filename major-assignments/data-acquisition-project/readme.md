@@ -16,22 +16,21 @@ Read this document in full, and take [this easy quiz](https://umd.instructure.co
 **Session 4**
 The assignment will be introduced and discussed in detail.
 
-**Due by Start of Session 7**
-Memo 1 (approximately 400 words as a forum post) is due indicating your main choice for a database to pursue and your reasons for choosing it; you must also indicate two alternates. Your memo (and all memos going forward) should also include a link to a Google Spreadsheet log of contacts (email, phone, in-person) and attempted contacts of officials in the course of your reporting, in the manner described below. This is separate from the one-page total.
+**MEMO 1 FORUM POST and Project Log Link Due by Start of Session 7**
+Memo 1 (approximately 500 words as a forum post) is due indicating your main choice for a database to pursue and your reasons for choosing it; you must also indicate two alternate choices.
 
-Some things to keep in mind at this point:
+This memo forum post (and all memo forum posts going forward) should also include a link to a Google Spreadsheet log of contacts (email, phone, in-person) and attempted contacts of officials in the course of your reporting, in the manner described below.
+
+Some things to keep in mind before you turn in Memo 1 and when writing Memo 1:
 
 * You will need to do some reporting, both on the web and by calling or emailing potential sources, to find suitable candidates for a database. You should identify yourself as a reporter for Capital News Service, not as a student, when doing this reporting. If someone asks if you are a student, tell the truth, but you should identify yourself as a Capital News Service reporter. The people with whom you are dealing with need to understand that this database could be used as the foundation for a news story. You will not be preparing a news story for this course, but students who do obtain a database during this assignment often go on to use it in a subsequent semester while reporting a story for general circulation.
 * The database you seek must be maintained by a government agency in Maryland that operates at the local, county or state level.  
-* The database must contain information that would be considered public record under the terms of the Maryland Public Information Act.
+* The database must contain information that would be considered public record under the terms of the Maryland Public Information Act as far as you can tell at this point.
 * Databases maintained by federal agencies or agencies in other states are not appropriate for this assignment.
 * Databases that are readily available for downloading from the Internet are also not acceptable for this assignment.  The process of seeking the database documentation – and the database if we get that far – will require you to have contact with government officials who serve as its gatekeepers.
 * The database you are seeking must be maintained as a database in electronic form, and you must seek this database in electronic form (that is, as a data file – such as a database format – rather than as a printout).  Hence, once you get to the next step of this assignment, it will be important to learn quickly whether or not the database you have in mind is one that actually exists.  If there is no database, you will need to consult with me about making another choice of a database to pursue for this assignment.
 * The database you seek should also be of a size and nature appropriate for a student reporter.  The entire case management database for the Montgomery County court system, for example, is gargantuan and complex, but something like a database of restaurant inspections would be more manageable.
 * Your memo should describe your potential databases, why you think they're newsworthy, and your reporting efforts to date.
-
-
-**Keep a Project Log**
 
 You will maintain a written log of your contacts as a Google spreadsheet.  This is an essential and vitally important part of this project. This log, which you will submit as part of your graded work on this assignment along with your final report, should include the following for each occasion that you reach or even attempt to reach someone for this project:  
 
@@ -45,9 +44,12 @@ You will maintain a written log of your contacts as a Google spreadsheet.  This 
 
 Some of the people you deal with – say, the receptionists or assistants who first answer the phone – may not want to give you their names, but you can always try telling them that you like to keep a record of the people with whom you speak. Your thoroughness may be appreciated.  An inadequate log – especially one that does not provide enough information for someone reading the log to know precisely whom you contacted, how you contacted them, when you contacted them and what you discussed – may prevent you from getting a passing grade for this assignment.
 
-**Contextual Reporting before Making a Request**
+The [link for Memo 1 Forum Post on ELMS is here](https://umd.instructure.com/courses/1259604/discussion_topics/3596918).
 
-You will need to learn as much as you can about what we might call the “context” for the database you are seeking.  The database exists inside a governmental system that is typically responsible for regulating, monitoring or facilitating certain activities. Examples would include agencies that inspect restaurants for health violations, investigate consumer complaints, or pay their own employees’ salaries – and that capture information about these tasks in databases.
+**MEMO 2 FORUM POST and Project Log Link Due by Start of Session 10**
+Memo 2 (approximately 400 words as a forum post) is due, describing your reporting about the database and its place in government operations.  You should also report on your initial efforts to contact the keepers of the database and any discussions with them.  You should include any contextual information you discover in the course of your reporting that will inform your request. You should also include a current copy of your contact log.
+
+You will need to learn as much as you can about what we might call the “context” for the database you are seeking before turning in this memo.  The database exists inside a governmental system that is typically responsible for regulating, monitoring or facilitating certain activities. Examples would include agencies that inspect restaurants for health violations, investigate consumer complaints, or pay their own employees’ salaries – and that capture information about these tasks in databases.
 
 So one of the important features of this assignment is to learn about how the database you are seeking fits into that system.
 
@@ -67,25 +69,19 @@ In short, there are important steps that come before requesting the database.  T
 
 When you feel you are ready to request the database, you will be trying to convince the keepers of the data to give it to you in the form you want.
 
-Sample letters will be provided.
 
-**Due by Start of Session 10**
-Memo 2 (approximately 400 words as a forum post) is due, describing your reporting about the database and its place in government operations.  You should also report on your initial efforts to contact the keepers of the database and any discussions with them.  You should include any contextual information you discover in the course of your reporting that will inform your request. You should also include a current copy of your contact log.  
-
-**Making a Request**
-
-Before you make a request for the database, you need to get my approval for the way that you will make this request.  This is a prior approval is a critical aspect of the assignment.  If you make the request in a PIA letter, I need to see that letter in advance.  If you plan to make the request by e-mail, over the phone, or in person, I need to see the language you plan to use to make that request.  Bring a copy of your letter or proposed request language (if to be done by e-mail, phone or in person) to class for me to see and discuss with you before you make the request. Failure to heed this requirement will affect your grade for the assignment.
-
-When you do request the database, you will ask for a waiver of fees in any written request for the database. You will need to negotiate over this issue if the agency proposes to charge you for the data, and we will talk in class about how to do that. You are not required or expected to pay for this database yourself. Also note that if the agency agrees to provide the database and quotes a price, you should not commit to buying it. At that point, contact me, and I will determine whether the price and the value of the data make it worth obtaining for Capital News Service.
-
-**Due at start of Session 13 (or sooner if you are ready)**
+**REQUEST LETTER and Project Log Link due at start of Session 13 (or sooner if you are ready)**
 
 Your request letter is due for approval. You should also include a current copy of your contact log.  
 
-**Due at start of Session 17**
+Before you make a request for the database and send in the letter, you need to get my approval for the way that you will make this request.  This is a prior approval is a critical aspect of the assignment.  If you make the request in a PIA letter, I need to see that letter in advance.  If you plan to make the request by e-mail, over the phone, or in person, I need to see the language you plan to use to make that request.  Bring a copy of your letter or proposed request language (if to be done by e-mail, phone or in person) to class for me to see and discuss with you before you make the request. Failure to heed this requirement will affect your grade for the assignment.
+
+When you do request the database, you will ask for a waiver of fees in any written request for the database. You will need to negotiate over this issue if the agency proposes to charge you for the data, and we will talk in class about how to do that. You are not required or expected to pay for this database yourself. Also note that if the agency agrees to provide the database and quotes a price, you should not commit to buying it. At that point, contact me, and I will determine whether the price and the value of the data make it worth obtaining for Capital News Service.
+
+**MEMO 3 FORUM POST and Project Log Link Due at start of Session 17**
 Memo 3 (250 words as a forum post) is due, describing any updated contacts you have with agency officials after you have submitted your letter, including any verbal or written responses by the agency.  You should include an updated copy of your contact log.   
 
-**During Class Session 25 or 26**  
+**PRESENTATION During Class Session 25 or 26**  
 You will make a verbal presentation to the class (10-12 minutes) on your project. During the presentations, we will discuss your experiences and what steps might help to pry the data from reluctant gatekeepers.  You should include the following elements.
 
 * About the database:  Describe the database you sought, how and why it is maintained by the agency, how it has been used in other reporting (if you know), and why it would be of value to a reporter.
@@ -96,5 +92,5 @@ You will make a verbal presentation to the class (10-12 minutes) on your project
 
 Please prepare a slide deck of between 6 and 12 slides.
 
-**Due at start of Session 25**
-Memo 4 (1,000 words) is due, a written project report that describes in detail your efforts to get the database, including all of the elements covered in your verbal presentation. You should also include your completed project log, copies of significant written correspondence with the agency, any documentation and (if you obtained it) a copy of the database, and your presentation slide deck.
+**MEMO 4 FORUM POST and Project Log Link Due at start of Session 25**
+Memo 4 (1,000 words) is due as a forum post, a written project report that describes in detail your efforts to get the database, including all of the elements covered in your verbal presentation. You should also include your completed project log, copies of significant written correspondence with the agency, any documentation and (if you obtained it) a copy of the database, and your presentation slide deck.

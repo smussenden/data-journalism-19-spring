@@ -18,6 +18,14 @@
 * Excel Assignment 4 page.
 * Data acquisition memo.
 
+## To publish
+* Session 6 module
+  * Excel Lab 2
+  * Excel Assignment 4
+* Session 7 module
+  * Data Acquisition Memo 1
+  * Don't publish other stuff in module yet. 
+
 ## Class Intro - 5 minutes
 * Review class guide for session 6
 * Remind everyone major assignment task is due before next class.
