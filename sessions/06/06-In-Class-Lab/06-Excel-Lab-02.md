@@ -75,7 +75,7 @@ Set up the spreadsheet as instructed previously.
 2. On the far left of the sheet, add a sequence column of consecutive numbers to allow you to return to the original sort order.
 3. Freeze panes to make the column header row "sticky" as you scroll down.
 4. Add a "source" tab, and link to the original source of the data.
-5. Save the file as an XLSX file. 
+5. Save the file as an XLSX file.
 
 ### Step 6: Working with Pivot Tables
 
@@ -154,7 +154,7 @@ Take a second to make some notes thinking of these questions:
 
 * Did crime change much between 2014 and 2015? What about 2015 and 2016?
 * Were the changes for certain crimes more dramatic than others?
-* What sort of formulas would you write to quantify the change, allowing you to compare across crime categories with different raw numbers? (copy the pivot table into a new sheet to try adding some).
+* What sort of formulas would you write to quantify the change, allowing you to compare across crime categories with different raw numbers? (copy the pivot table into a new sheet to try adding some and paste special).
 
 
 ### Step 7: Pivot Table Practice.
@@ -262,7 +262,7 @@ Create a new column called “Robbery”
 
 In row 2 of that column, type the following”
 
-=IF(OR(F2="ROBBERY - CARJACKING",F2="ROBBERY - COMMERCIAL",F2="ROBBERY - RESIDENCE",F2="ROBBERY - STREET"),"ROBBERY","NOT ROBBERY")
+=IF(OR(G2="ROBBERY - CARJACKING",G2="ROBBERY - COMMERCIAL",G2="ROBBERY - RESIDENCE",G2="ROBBERY - STREET"),"ROBBERY","NOT ROBBERY")
 
 This says “If the cell F2 contains any of the robbery categories, then add the word “Robbery” in the cell. Otherwise, add the words “Not robbery.”
 
