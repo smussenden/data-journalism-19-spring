@@ -39,7 +39,7 @@ Select the dropdown arrow next to the word “is” and change it to “is betwe
 
 Two text boxes appear where we can define our starting and ending data.
 
-Enter “1/1/2014” in the top box and “12/21/2016” in the second box.
+Enter “1/1/2014” in the top box and “12/31/2016” in the second box.
 
 ![D.png](files/D.png)    
 
