@@ -1,9 +1,9 @@
 # SESSION 6 OUTLINE
 
 ## To read
-* Their forum post about stories we could do based on forms on website.  Sets up discussion.
+* Their forum post about stories we could do based on forms on websites.  Sets up discussion.
 * Their forum posts about crime in context.
-* Their assignment of Excel 3, want to see what people found.
+* Their assignment answers of Excel 3, which was more freeform, want to see what people found.
 
 ## After Midnight on Day of Class, upload to session five folder
 * Excel assignment 3 key and link to it from session 6 guide
@@ -24,7 +24,7 @@
   * Excel Assignment 4
 * Session 7 module
   * Data Acquisition Memo 1
-  * Don't publish other stuff in module yet. 
+  * Don't publish other stuff in module yet.
 
 ## Class Intro - 5 minutes
 * Review class guide for session 6
