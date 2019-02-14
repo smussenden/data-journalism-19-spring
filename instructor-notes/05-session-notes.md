@@ -1,4 +1,4 @@
-# SESSION 5 OUTLINE -- THIS HASN'T BEEN UPDATED YET FOR SPRING 19
+# SESSION 5 OUTLINE
 
 ## To read
 * their 38 excuses forum post

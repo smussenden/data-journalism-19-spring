@@ -46,6 +46,6 @@ In a text file, write up the three most interesting things you discovered in you
 
 Then write up one of those findings as the top of a story, with a lede and one or two supporting sentences.  
 
-Upload the text file, and your edited spreadsheet, to the ELMS page linked above. 
+Upload the text file, and your edited spreadsheet, to the ELMS page linked above.
 
 -30-
