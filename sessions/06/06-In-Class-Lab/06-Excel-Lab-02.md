@@ -75,6 +75,7 @@ Set up the spreadsheet as instructed previously.
 2. On the far left of the sheet, add a sequence column of consecutive numbers to allow you to return to the original sort order.
 3. Freeze panes to make the column header row "sticky" as you scroll down.
 4. Add a "source" tab, and link to the original source of the data.
+5. Save the file as an XLSX file. 
 
 ### Step 6: Working with Pivot Tables
 
