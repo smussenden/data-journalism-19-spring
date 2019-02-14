@@ -10,7 +10,7 @@
 
 ## Lecture and discussion
 
-* Review of [Excel Assignment 3](../05/05-Homework-Assigned/A-excel-assignment-3.md).
+* Review of [Excel Assignment 3](../05/05-Homework-Assigned/A-excel-assignment-3.md). [Answer Key](../05/05-Homework-Assigned/A-excel-assignment-3-key.md). [Spreadsheet Key](../05/05-Homework-Assigned/data/2016_2012_presidential_maryland-key.xlsx).
 * Review of [crime in context and post on forum](../05/05-Homework-Assigned/C-crime-in-context-discussion.md).
 * Review of ideas from [The great database hunt](../05/05-In-Class-Lab/05-database-hunt.md).
 
