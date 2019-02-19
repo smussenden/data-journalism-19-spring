@@ -22,7 +22,7 @@ Upload a text file with the answers and your edited spreadsheets to the [ELMS pa
 
 ## Part 1 - SNAP benefits analysis
 
-Use the spreadsheet [snap-benefits.xlsx](data/snap-benefits.xlsx). It contains information about state-by-state spending on the [Supplemental Nutrition Assistance Program (SNAP)](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program-snap), which is often referred to as food stamps, for each year between 2010 and 2015 (the most recent available data). It also has total population data for each state for each year between 2010 and 2015.  
+Use the spreadsheet [snap-benefits.xlsx](data/_snap-benefits.xlsx). It contains information about state-by-state spending on the [Supplemental Nutrition Assistance Program (SNAP)](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program-snap), which is often referred to as food stamps, for each year between 2010 and 2015 (the most recent available data). It also has total population data for each state for each year between 2010 and 2015.  
 
 The SNAP data has been compiled by the Kaiser Family Foundation [here](https://www.kff.org/other/state-indicator/total-snap-program-benefits/?activeTab=graph&currentTimeframe=1&startTimeframe=14&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D). The population data is from the U.S. Census bureau.    
 
@@ -44,7 +44,7 @@ Then, answer the following questions, editing the spreadsheet as needed.
 
 ## Part 2 - government salary analysis
 
-Use the spreadsheet [md-salary-2017.xlsx](data/md-salary-2017.xlsx). It is spreadsheet of salaries for Maryland state employees. It was obtained by the [Baltimore Sun](https://salaries.news.baltimoresun.com/) via a public records request, and released to the public. The version provided you here has been cleaned up a bit.
+Use the spreadsheet [md-salary-2017.xlsx](data/_md-salary-2017.xlsx). It is spreadsheet of salaries for Maryland state employees. It was obtained by the [Baltimore Sun](https://salaries.news.baltimoresun.com/) via a public records request, and released to the public. The version provided you here has been cleaned up a bit.
 
 Use the following documentation:
 
