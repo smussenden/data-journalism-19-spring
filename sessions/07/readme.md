@@ -12,7 +12,7 @@
 
 ## Lecture and discussion
 
-* Review of [Excel Assignment 04](../06/06-Homework-Assigned/A-excel-assignment-4.md)
+* Review of [Excel Assignment 04](../06/06-Homework-Assigned/A-excel-assignment-4.md). [Answer Key](../06/06-Homework-Assigned/A-excel-assignment-4_key.md). [Excel Sheet Key](../06/06-Homework-Assigned/HW_BPD_Part_1_Victim_Based_Crime_Data_2014-2016_key.xlsx)
 * Discussion of Open Data created by news organizations. [Discussion Links](07-In-Class-Lab/07-Discussion-Links.md)
 * I'll come around and talk about your data acquisition assignment on-on-one.
 
