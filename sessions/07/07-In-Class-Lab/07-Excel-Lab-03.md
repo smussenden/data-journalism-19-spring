@@ -12,7 +12,7 @@ Here's what the Post says about their collection methods:
 
 ### How to Submit
 
-You will submit the edited Excel file that you create during the lab on the [ELMS page for this lab](https://umd.instructure.com/courses/1251920/assignments/4734989?module_item_id=9337425).  You will also submit a text file with the answers to the questions below on the same ELMS page.    
+You will submit the edited Excel file that you create during the lab on the [ELMS page for this lab](https://umd.instructure.com/courses/1259604/assignments/4811984).  You will also submit a text file with the answers to the questions below on the same ELMS page.    
 
 ### Step 1: Get the updated data.
 
@@ -68,4 +68,4 @@ Answer the following questions.  To do so, edit the spreadsheet as you see fit t
 
 ### Step 5: Submit
 
-Submit a text file with your answers, plus your edited spreadsheet, on the [ELMS page for this lab](https://umd.instructure.com/courses/1251920/assignments/4734989?module_item_id=9337425).
+Submit a text file with your answers, plus your edited spreadsheet, on the [ELMS page for this lab](https://umd.instructure.com/courses/1259604/assignments/4811984).
