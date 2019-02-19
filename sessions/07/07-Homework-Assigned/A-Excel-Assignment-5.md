@@ -18,7 +18,7 @@ This assignment is designed to review the core concepts introduced in the first 
 
 ## Turning it in
 
-Upload a text file with the answers and your edited spreadsheets to the [ELMS page](https://github.com/smussenden/intro-to-data-journalism-public/blob/master/sessions/07/07-Homework-Assigned/A-Excel-Assignment-5.md) for this assignment.
+Upload a text file with the answers and your edited spreadsheets to the [ELMS page](https://umd.instructure.com/courses/1259604/assignments/4811983?module_item_id=9445287) for this assignment.
 
 ## Part 1 - SNAP benefits analysis
 
