@@ -25,8 +25,3 @@
 *Unless otherwise advised, this homework is due at midnight before the next class session.*   
 
 * [Excel Assignment 05 | Exam Review](07-Homework-Assigned/A-Excel-Assignment-5.md)
-
-## Major Assignment Tasks due Before Next Class
-*Unless otherwise advised, this major assignment task is due at midnight before the next class session.*   
-
-* [Data Acquisition Project Memo 1](../../major-assignments/data-acquisition-project/readme.md)
