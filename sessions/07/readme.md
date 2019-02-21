@@ -5,7 +5,7 @@
 
 * [Excel Assignment 04](../06/06-Homework-Assigned/A-excel-assignment-4.md)
 
-# Major Assignment Tasks due Before Start of Class
+## Major Assignment Tasks due Before Start of Class
 *Unless otherwise advised, this major assignment task was due at midnight before this class session.*   
 
 * [Data Acquisition Project Memo 1](../../major-assignments/data-acquisition-project/readme.md)
