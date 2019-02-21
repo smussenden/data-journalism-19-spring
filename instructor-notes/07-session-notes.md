@@ -35,6 +35,7 @@
     * Lots of reporting needed.  You must work it to get full credit.
     * I'll be coming around to talk to you.
     * If none of you are thrilled with ideas, I have some ideas for you.
+  * Reminder: if you are struggling, set up time to come see me.  I want to leave no one behind. Office hours - Monday and Thursday from 3-430.
 
 ## Excel Assignment 4 Review  - 25 minutes
   * Work from answer key and walk through step by step.
