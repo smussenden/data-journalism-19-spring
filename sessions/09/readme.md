@@ -12,7 +12,7 @@
 ## In-class lab work
 *Unless otherwise advised, in-class lab work is due by the end of this class session.*   
 
-* [Exam 1](09-In-Class-Exam/09-In-Class-Exam.md)
+* [Exam 1](../../major-assignments/exam-1/readme.md)
 
 ## Homework Assigned at the End of This Class
 *Unless otherwise advised, this homework is due at midnight before the next class session.*   
