@@ -69,6 +69,7 @@ In short, there are important steps that come before requesting the database.  T
 
 When you feel you are ready to request the database, you will be trying to convince the keepers of the data to give it to you in the form you want.
 
+The [link for Memo 2 Forum Post on ELMS is here](https://umd.instructure.com/courses/1259604/discussion_topics/3605212).
 
 **REQUEST LETTER and Project Log Link due at start of Session 13 (or sooner if you are ready)**
 
