@@ -13,7 +13,8 @@
 
 ## Lecture and discussion
 
-* ////* Exam Key Links on ELMS.  Exam Key MD file on ELMS.
+* On your own, review the [Exam Key](https://umd.instructure.com/courses/1259604/files/51776195). [Excel File Key 1](https://umd.instructure.com/courses/1259604/files/51776197). [Excel File Key 2](https://umd.instructure.com/courses/1259604/files/51776196).
+* Data acquisition project updates. 
 * Introduction to analysis with relational databases and SQL.
 
 ## In-class lab work
