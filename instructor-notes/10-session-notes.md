@@ -1,23 +1,3 @@
-## Introduction
-* Introduction to relational databases
-* Today's the first time we're going to be use SQL to write code to analyze data.
-* This takes us beyond the spreadsheet and beyond Excel.
-* A lot of what we're doing will at first seem really similar to what we've done in Excel.
-* Looking at records, sorting, filtering.  Soon, we'll even get to writing code that are essentially the same thing as pivot tables.
-* And compared to Excel, at first, it's going to seem a lot less intuitive, because it's writing code, as opposed to using a GUI.
-* But this is a superior method.  
-* It lets you work with larger data sets.  
-* It lets you easily mashup two different data sets, which gives you the power to do better stories -- bus drivers with criminal records; police vehicles with toll records; health outcomes and income levels.  
-* SQL is a great, easy way in to data programming, which will open the door for you to do more complicated things in other programming languages later on.
-* It's part of the holy triumvirate of SQL, Python and R, commonly used together by data journalists and data scientists.
-
-## Install Party
-* Let's get this on your local machine.
-
-## Lab
-* Follow along with videos
-
-
 # SESSION 10 OUTLINE
 
 ## To read and do
