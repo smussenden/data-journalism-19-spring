@@ -43,7 +43,7 @@ This video is designed to introduce you to the MySQL workbench interface.
 
 This video is designed to teach you basic SQL queries, while working with a small example slice of a database frequently used by data journalists and investigative reporters, the National Inventory of Dams, which has information on the safety status of thousands of dams across the country.
 
-If you wish to learn more about this data and how it's used by journalists, peruse these links before moving on: [NICAR documentation, record layout, other info](https://ire.org/nicar/database-library/databases/national-inventory-of-dams/).
+If you wish to learn more about this data and how it's used by journalists, peruse these links before moving on: [NICAR documentation, record layout, other info](https://www.ire.org/product/national-inventory-of-dams).
 
 **[Video Link](http://www.youtube.com/watch?v=ObPWBNkh72M)**
 
