@@ -31,6 +31,7 @@
 * Review class schedule for today.
 
 ## Data Acquisition Project Discussion - 20 minutes
+### NOTE FOR NEXT YEAR. Need to knock this down to 15 minutes.  Went on too long, cut into lab time.
 * The reporting is ongoing.  You did a lot of great reporting leading up to the publication of this post, some more than others. It does not stop here. We're working up to writing a good request in a few weeks. **If you have not talked to someone on phone yet, move heaven and earth to get someone on the phone ASAP**
 * If you emailed and got no response, call. If you called and got no response, call again. If the person you get isn't the write person to talk about, find out who is.
 * **Who is having a problem they could use the class's help on?**
@@ -42,6 +43,7 @@
     * Elliott. Nosy public information officers. Wants from Maryland State police data of officer involved incidents? "He asked me about the timeframe for my story, what the story was about and why I was interested in the police incident angle. I did my best to respond in a respectful way without giving away too much. I regrettably told him that I’m a graduate student, which hopefully doesn’t put me at a disadvantage moving forward." **What's the best way to respond?**
 
 ## Introduction to relational databases and SQL - 10 minutes
+### Note for next year.  Speed this up.  Really stick to 10 minutes.  Need to leave PLENTY of TIME for lab. 
 * Today, we head down a new path with our data analysis.
 * We're going to learn a data programming language -- SQL -- and write code to do what we've previously done in Excel.
 * We're also going to work with databases today.
