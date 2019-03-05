@@ -1,11 +1,3 @@
-## Review SQL Assignment 1
-Go around room and have people come up.
-
-## SQL Lab 1
-
-## Homeworks
-
-
 # SESSION 11 OUTLINE
 
 ## To read and do
