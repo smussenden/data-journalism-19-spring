@@ -23,6 +23,7 @@
 
 ## Bring up before class
 * open sql Workbench
+* Preferences > Fonts > Boost ALL four to 18.
 * connect to college server with my user and pass.
 
 ## Class Intro - 5 minutes
@@ -43,7 +44,7 @@
     * Elliott. Nosy public information officers. Wants from Maryland State police data of officer involved incidents? "He asked me about the timeframe for my story, what the story was about and why I was interested in the police incident angle. I did my best to respond in a respectful way without giving away too much. I regrettably told him that I’m a graduate student, which hopefully doesn’t put me at a disadvantage moving forward." **What's the best way to respond?**
 
 ## Introduction to relational databases and SQL - 10 minutes
-### Note for next year.  Speed this up.  Really stick to 10 minutes.  Need to leave PLENTY of TIME for lab. 
+### Note for next year.  Speed this up.  Really stick to 10 minutes.  Need to leave PLENTY of TIME for lab.
 * Today, we head down a new path with our data analysis.
 * We're going to learn a data programming language -- SQL -- and write code to do what we've previously done in Excel.
 * We're also going to work with databases today.

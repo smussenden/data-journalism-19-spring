@@ -71,13 +71,17 @@ When you feel you are ready to request the database, you will be trying to convi
 
 The [link for Memo 2 Forum Post on ELMS is here](https://umd.instructure.com/courses/1259604/discussion_topics/3605212).
 
-**REQUEST LETTER and Project Log Link due at start of Session 13 (or sooner if you are ready)**
+**MEMO 3 FORUM POST (Request Letter and Project Log) Link due at start of Session 13**
+
+Use this [Sample PIA Request Letter](https://umd.instructure.com/courses/1259604/modules/items/9502349) as a template for this assignment. You should write through it so that it applies to your specific case.
 
 Your request letter is due for approval. You should also include a current copy of your contact log.  
 
 Before you make a request for the database and send in the letter, you need to get my approval for the way that you will make this request.  This is a prior approval is a critical aspect of the assignment.  If you make the request in a PIA letter, I need to see that letter in advance.  If you plan to make the request by e-mail, over the phone, or in person, I need to see the language you plan to use to make that request.  Bring a copy of your letter or proposed request language (if to be done by e-mail, phone or in person) to class for me to see and discuss with you before you make the request. Failure to heed this requirement will affect your grade for the assignment.
 
 When you do request the database, you will ask for a waiver of fees in any written request for the database. You will need to negotiate over this issue if the agency proposes to charge you for the data, and we will talk in class about how to do that. You are not required or expected to pay for this database yourself. Also note that if the agency agrees to provide the database and quotes a price, you should not commit to buying it. At that point, contact me, and I will determine whether the price and the value of the data make it worth obtaining for Capital News Service.
+
+The [link for Memo 3 Forum Post on ELMS is here](https://umd.instructure.com/courses/1259604/discussion_topics/3610522).
 
 **MEMO 3 FORUM POST and Project Log Link Due at start of Session 17**
 Memo 3 (250 words as a forum post) is due, describing any updated contacts you have with agency officials after you have submitted your letter, including any verbal or written responses by the agency.  You should include an updated copy of your contact log.   
