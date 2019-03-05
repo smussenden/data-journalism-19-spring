@@ -8,13 +8,13 @@
 ## Major Assignment Tasks due Before Next Class
 *Unless otherwise advised, this major assignment task is due at midnight before the next class session.*   
 
-* Nothing is due in the next session.  But you should be continuing your dogged reporting work, in preparation for officially submitting a request letter for my approval in advance of class session 13. We will review the letter today.
-* Some of your contacts may be asking you to submit a formal PIA request.  Do not do this yet.
-* You should only send the PIA letter after I approve.   
+* Note: we will not be meeting in class for session 12.
+* The next milestone in the data acquisition assignment is due before session 13. It is your draft PIA letter posted as a forum post (Forum Post 3). You can read the details in the [data acquisition assignment description](../../major-assignments/data-acquisition-project/readme.md).  
+* We will review the sample letter today.
 
 ## Lecture and discussion
 
-* GitHub review. 
+* GitHub review.
 * Writing a PIA Request Letter. [Sample Letter Template](https://umd.instructure.com/courses/1259604/files/52246046)
 * Review of A-SQL-Assignment-01. [Link](../10/10-Homework-Assigned/A-SQL-Assignment-01.sql). [Key](../10/10-Homework-Assigned/A-SQL-Assignment-01-key.sql).
 
