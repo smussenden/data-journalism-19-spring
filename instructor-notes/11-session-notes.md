@@ -24,21 +24,35 @@
 * open sql Workbench
 * Preferences > Fonts > Boost ALL four to 18.
 * connect to college server with my user and pass.
+* Paste blank SQL assignment 1 in desktop.
 * GitHub desktop and login.
 
 ## Class Intro - 5 minutes
 * Reminder: if you are struggling, set up time to come see me.  I want to leave no one behind. Office hours - Monday and Thursday from 3-430.
-* Review class schedule for today.
-* No class on Thursday. I'm at NICAR. Use time to continue reporting. I hope to share coolest stuff I saw when I return.
 * Note that grades are up to date. Exam grades in. If you think I messed something up, please see me.  Compare your grades. I am not infallible.
+* No class on Thursday. I'm at NICAR. Use time to continue reporting. I hope to share coolest stuff I saw when I return.
+* Review class schedule for today.
 
 ## GitHub - 10 minutes
 * Walk through process of creating a repo.
+  * readme
+  * license
+  * gitignore.
 * Open GitHub Desktop.
-* Create New Repo.
+* Create New Repo on desktop.
 * Open SQL Workbench.
+* Paste in SQL Assignment 1 blank document (or your answers)
 * Save script file to repo.
 * Make first committ.
+* Push to repo.
+* Go look at GitHub desktop.
+* Make edit in SQL and save.
+* Commit
+* Push to repo.  
+* Add another blank script file.
+* Comit
+* Push to repo.
+* Show process of changing on github. Always pull origin. Before starting. 
 
 
 ## Sample PIA Letter - 10 minutes
