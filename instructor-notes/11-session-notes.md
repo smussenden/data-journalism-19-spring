@@ -38,6 +38,7 @@
   * readme
   * license
   * gitignore.
+  * Private.
 * Open GitHub Desktop.
 * Create New Repo on desktop.
 * Open SQL Workbench.
@@ -52,7 +53,7 @@
 * Add another blank script file.
 * Comit
 * Push to repo.
-* Show process of changing on github. Always pull origin. Before starting. 
+* Show process of changing on github. Always pull origin. Before starting.
 
 
 ## Sample PIA Letter - 10 minutes
