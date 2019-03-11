@@ -16,7 +16,7 @@
 * None
 
 ## Lecture and discussion
-* Review of A-SQL-Assignment-02. [Link](../11/11-Homework-Assigned/A-SQL-Assignment-02-Key.sql). [Key](../11/11-Homework-Assigned/A-SQL-Assignment-02.sql).
+* Review of A-SQL-Assignment-02. [Key](../11/11-Homework-Assigned/A-SQL-Assignment-02-Key.sql). [Link](../11/11-Homework-Assigned/A-SQL-Assignment-02.sql).
 * One-on-one reviews of letters.
 
 ## In-class lab work
