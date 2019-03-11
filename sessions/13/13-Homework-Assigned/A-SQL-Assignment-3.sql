@@ -1,5 +1,5 @@
 /* Mysql Homework No. 3 (13-Homework)*/
-/* Connect to JOURDATA in MySQL Workbench, Then open this file in MySQL Workbench. Rename it Firstname-Lastname-12-SQL-Assignment-12.sql. Work in this file to answer the questions. */
+/* Connect to JOURDATA in MySQL Workbench, Then open this file in MySQL Workbench. Rename it Firstname-Lastname-13-SQL-Assignment-12.sql. Work in this file to answer the questions. */
 /* Underneath each question below, create a new comment with the correct answer.  Underneath the answer -- NOT in a comment -- put the SQL query you used to derive the answer.*/
 /* Use the accidents and deaths tables in the BARD database.
 /*Execute this function first: SET SQL_MODE='only_full_group_by';*/
