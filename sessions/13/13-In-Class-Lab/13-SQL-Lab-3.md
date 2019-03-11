@@ -16,7 +16,7 @@ Follow along with this lab, which will direct you to create an sql script file. 
 ### Step 1: Setup.  
 
 * Open MySQL Workbench and connect to the jourdata server.
-* In Workbench, create a new SQL file called 12-in-class-lab-FIRSTNAME-LASTNAME.sql.
+* In Workbench, create a new SQL file called 13-in-class-lab-FIRSTNAME-LASTNAME.sql.
 * At the top of the file, put a comment with Your name and the date.
 * Just below that, type this command and run it: SET SQL_MODE='only_full_group_by'; Plan to do this for all future SQL work. This will ensure grouping (described below) works as expected.
 * Follow the instructions in the video. At the end of the lab, you'll submit this assignment.
