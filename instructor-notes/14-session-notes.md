@@ -26,21 +26,19 @@
 
 ## Draw on the board.
 
-Two tables, A - Students, B - SAT Scores
+* Two tables, A - Students, B - SAT Scores
 
-Student_ID | Student_First_Name | Student_Last_Name
-A1 | Sean | Mussenden
-A2 | Adrianne | Flynn
-A3 | Chris | Harvey
-A4 | Sandy | Banisky
+* Student_ID | Student_First_Name | Student_Last_Name
+* A1 | Sean | Mussenden
+* A2 | Adrianne | Flynn
+* A3 | Chris | Harvey
+* A4 | Sandy | Banisky
 
-Student_ID | SAT_Math | SAT_Verbal
-A1 | 750 | 725
-A2 | 600 | 750
-A3 | 675 | 775
-A5 | 500 | 600
-
-
+* Student_ID | SAT_Math | SAT_Verbal
+* A1 | 750 | 725
+* A2 | 600 | 750
+* A3 | 675 | 775
+* A5 | 500 | 600
 
 
 ## Class Intro - 5 minutes
