@@ -3,7 +3,7 @@
 ## Homework Due Before Start of Class
 *Unless otherwise advised, this homework was due at midnight before this class session.*
 
-* A-SQL-Assignment-03. [Link](../13/13-Homework-Assigned/A-SQL-Assignment-03.sql)
+* A-SQL-Assignment-03. [Link](../13/13-Homework-Assigned/A-SQL-Assignment-3.sql)
 
 ## Major Assignment Tasks due Before Start of Class
 *Unless otherwise advised, this homework was due at midnight before this class session.*
@@ -16,7 +16,7 @@
 * Nothing. Just be sure to send your letters ASAP.
 
 ## Lecture and discussion
-* Review of A-SQL-Assignment-03. [Key](../13/13-Homework-Assigned/A-SQL-Assignment-03-key.sql). [Link](../13/13-Homework-Assigned/A-SQL-Assignment-03.sql).
+* Review of A-SQL-Assignment-03. [Key](../13/13-Homework-Assigned/A-SQL-Assignment-3-key.sql). [Link](../13/13-Homework-Assigned/A-SQL-Assignment-3.sql).
 * Discussion of joins.
 
 ## In-class lab work
