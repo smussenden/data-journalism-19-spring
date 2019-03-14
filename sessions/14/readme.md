@@ -22,7 +22,7 @@
 ## In-class lab work
 *Unless otherwise advised, in-class lab work is due by the end of this class session.*   
 
-* [SQL-Lab-04 Having and IF Functions]((14-In-Class-Lab/14-SQL-Lab-4.md)
+* [SQL-Lab-04 Having and IF Functions](14-In-Class-Lab/14-SQL-Lab-4.md)
 
 ## Homework Assigned at the End of This Class
 *Unless otherwise advised, this homework is due at midnight before the next class session.*   
