@@ -157,8 +157,8 @@ Sean Mussenden is the data editor for Capital News Service, a non-profit news or
 14|Thursday|3/14|[Link](sessions/14/readme.md)|None.|SQL Assignment 3.|Review of SQL assignment 3.|SQL Lab 4: Advanced filtering with HAVING, WITH ROLLUP.|SQL Assignment 4.  Due next session.
 X|Tuesday|3/19| |NO|CLASS|SPRING|BREAK|
 X|Thursday|3/21| |NO|CLASS|SPRING|BREAK|
-15|Tuesday|3/26|[Link](sessions/15/readme.md)|None.|SQL Assignment 4.|Review of SQL assignment 4.|SQL Lab 5: Advanced practice.|Exam 2 review worksheet.  Due next session.
-16|Thursday|3/28|[Link](sessions/16/readme.md)|None.|Exam 2 review worksheet.|Exam 2 Review Discussion.|None.|Study for Exam 2.
+15|Tuesday|3/26|[Link](sessions/15/readme.md)|None.|SQL Assignment 4.|Review of SQL assignment 4.|SQL Lab 5: Advanced practice.|Exam 2 review.  Due next session.
+16|Thursday|3/28|[Link](sessions/16/readme.md)|None.|Exam 2 review|Exam 2 Review Discussion.|None.|Study for Exam 2.
 17|Tuesday|4/2|[Link](sessions/17/readme.md)|Exam 2 (given in-class)|Study for Exam 2.|None.|Exam 2.|Reading and writing assignment on data analysis.  Due next session.
 18|Thursday|4/4|[Link](sessions/18/readme.md)|Data Acquisition Project | Status Memo 3 Forum Post|Reading and writing assignment on data analysis. Status memo 3 for data acquisition project.|Introduction to data analysis project. Approaches to data analysis. |Data analysis lab 1: pitch stories based on original analysis of a sample data set.|Complete data analysis lab 1. Reading and short writing assignment on data documentation. Both due before next class.
 19|Tuesday|4/9|[Link](sessions/19/readme.md)|None.|Complete data analysis lab 1. Reading and short writing assignment on data documentation. |Review of data analysis lab 1. The importance of documentation, understanding what data can and cannot show you, understanding how and why data was created.|Data analysis lab 2: read documentation and pitch ideas for further analysis.|Readings and quiz on data visualization.  Due next session.
