@@ -24,7 +24,7 @@
 * Paste blank SQL assignment 1 in desktop.
 * GitHub desktop and login.
 
-## Draw on the board.
+## Draw on the board OR, make excel tables and pull up on screen
 
 * Two tables, A - Students, B - SAT Scores
 

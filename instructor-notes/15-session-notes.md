@@ -1,22 +1,3 @@
-## PIA Letters
-* Unless I've talked to you, you should send your letter now, or have sent it already. Follow up the next day to make sure they got it.
-
-## Upcoming Schedule.
-* Practice SQL Lab Today
-* Practice SQL Lab for Homework
-* We will review both of those tomorrow.
-* Your exam will be handed out at end of class tomorrow. It's a take home, independent work.
-* No class next Monday, I will be in China.  Use that as a free period to work on your exam.
-* Exam due at start of class Wednesday.
-* Memo 3 (half-page, single spaced) is due at start of class Wednesday, describing any updated contacts you have with agency officials after you have submitted your letter, including any verbal or written responses by the agency.  You should include an updated copy of your contact log.   
-
-## Review SQL Assignment 4
-
-## SQL Lab 4
-
-## SQL Assignment 4
-
-
 # SESSION 15 OUTLINE
 
 ## To read and do
