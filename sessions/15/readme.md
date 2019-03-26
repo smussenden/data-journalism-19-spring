@@ -26,4 +26,4 @@
 ## Homework Assigned at the End of This Class
 *Unless otherwise advised, this homework is due at midnight before the next class session.*   
 
-* A-SQL-Assignment-5. [Link](15-Homework-Assigned/A-SQL-Assignment-5.sql)
+* A-SQL-Assignment-5. [Link](15-Homework-Assigned/A-SQL-Assignment-5.md)
