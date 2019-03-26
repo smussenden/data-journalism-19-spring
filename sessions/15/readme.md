@@ -17,6 +17,7 @@
 
 ## Lecture and discussion
 * Review of A-SQL-Assignment-04. [Key](../14/14-Homework-Assigned/A-SQL-Assignment-4-key.sql). [Link](../14/14-Homework-Assigned/A-SQL-Assignment-4.sql).
+* Upcoming SQL exam is a take home.  It will be given out in-class next session, and will be due next Tuesday at the beginning of class.  
 
 ## In-class lab work
 *Unless otherwise advised, in-class lab work is due by the end of this class session.*   

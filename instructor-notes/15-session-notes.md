@@ -27,6 +27,7 @@
 ## Class Intro - 5 minutes
 * Reminder: if you are struggling, set up time to come see me.  I want to leave no one behind. Office hours - Monday and Thursday from 3-430.
 * Review class schedule for today.
+* Upcoming exam, take home.
 
 ## PIA Letters - 5 minutes
 * You all sent your letters last week.
