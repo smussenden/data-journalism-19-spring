@@ -2,7 +2,8 @@
 
 ## To read and do
 * Move exam 2 into major assignments folder.
-* Move Session 16 folder into package.    
+* Move Session 16 folder into package.  
+* Read through SQL assignment 5 results, to prompt discussion.  
 
 ## To publish on ELMS
 * Module 16
