@@ -3,7 +3,7 @@
 ## Homework Due Before Start of Class
 *Unless otherwise advised, this homework was due at midnight before this class session.*
 
-* A-SQL-Assignment-5. [Link](../15/15-Homework-Assigned/A-SQL-Assignment-5.sql)
+* A-SQL-Assignment-5. [Link](../15/15-Homework-Assigned/A-SQL-Assignment-5.md)
 
 ## Major Assignment Tasks due Before Start of Class
 *Unless otherwise advised, this homework was due at midnight before this class session.*
@@ -17,7 +17,7 @@
 * [Exam 2](../../major-assignments/exam-2/readme.md), a take-home exam, is due at the by 11:59 a.m., one minute before class starts.  Late exams will not be graded and marked zero.
 
 ## Lecture and discussion
-* Review of newsworthy findings in SQL assignment 5. 
+* Review of newsworthy findings in SQL assignment 5.
 
 ## In-class lab work
 *Unless otherwise advised, in-class lab work is due by the end of this class session.*   
