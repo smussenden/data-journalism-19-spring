@@ -12,7 +12,8 @@
   * Data Acquisition Forum Post
 
 ## Print before class
-* this outline.
+* this guide.
+* session outline.
 * SQL Assignment 5
 * Data Acquisition project description
 * Exam 2  
