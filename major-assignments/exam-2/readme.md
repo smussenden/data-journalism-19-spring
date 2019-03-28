@@ -7,7 +7,7 @@ This exam is designed to test your mastery of the core concepts introduced since
 
 ## Turning it in
 
-Upload your completed SQL file to [the ELMS page for the exam](https://umd.instructure.com/courses/1251920/assignments/4749407).  That means writing the answers below the question along with query(s) you wrote to answer the question.
+Upload your completed SQL file to [the ELMS page for the exam](https://umd.instructure.com/courses/1259604/assignments/4811997?module_item_id=9445307).  That means writing the answers below the question along with query(s) you wrote to answer the question.
 
 ## Resource Materials
 
