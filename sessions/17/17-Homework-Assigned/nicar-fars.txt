@@ -1,0 +1,198 @@
+DOT FARS
+1975 - 2014
+Updated Jan 2016
+
+This is the Fatality Analysis Reporting System (FARS) data from the U.S. Department of Transportation. The data tracks automobile accidents on public U.S. roads that have resulted in the death of one or more persons within 30 days of the accident.  Truck and trailer accidents are included.
+
+The data files cover 1975 - when the DOT first began tracking fatal accidents - through 2014 (data for 2014 is preliminary). The database went through major structural changes in 2010, which made merging it with older data impossible. Therefore, data prior to 2010 are kept in separate files than 2010 forward.
+
+For data prior to 2010, each table became too large for a single file so NICAR split the tables up by year: 1994-2000 and 2001-2009. (See below for more on the older data).
+
+BECAUSE THE DATA IS SOMEWHAT COMPLEX, WE STRONGLY RECOMMEND THAT YOU AT LEAST SPOT-CHECK YOUR DATA RESULTS. ONE WAY TO DO THAT IS TO QUERY THE WEB-BASED INTERFACE AT http://www-fars.nhtsa.dot.gov/. THROUGH THAT SITE, YOU CAN EXAMINE DOT REPRESENTATIONS OF THE ACTUAL FORMS USED TO REPORT THE ACCIDENTS.
+
+The DOT provides the document "USERGUIDE-2014.pdf" that provides detailed information about each field in each table. Much of it is reflected in the layout files provided by NICAR, but you can go there for more detailed information.
+
+The latest FARS database (2010-2014) consists of nineteen relational tables in three groups: crash, person and vehicle. The main tables for each group are named as such. The `ACCIDENT` table has one record per crash; the `VEHICLE` table has one record per vehicle (in transit) involved in a crash; the `PERSON` table has one record per person involved in a crash. Note that joining these tables together will duplicate the number of records per crash, although you can safely join these three together since each vehicle can be tagged to a crash, and each person can be tagged to a vehicle.
+
+	Crash-Level (see crash_layouts.xls):
+		`ACCIDENT` -- information about crash characteristics and environmental conditions at the time of the crash; one record per crash.
+		`CEVENT` -- information on all qualifying events (both harmful and non-harmful involving in-transport vehicles) which occurred in the crash; one record per event which includes a description of the event or object contacted, vehicles involved and vehicles' area of impact
+		`VEVENT` -- the sequence of events for each in-transport vehicle involved in the crash (same fields as CEVENT, but records the individual vehicle number)
+	Vehicle-Level (see vehicle_layouts.xls):
+		`VEHICLE` -- information about in-transport vehicles and the drivers of those motor vehicles that were involved in the crash; one record per vehicle
+		`PARKWORK` -- information for parked / working motor vehicles; one record per vehicle
+		`VINDECODE` -- vehicle descriptors based on the vehicle's VIN; one record per vehicle (in-transport, parked and working)
+		`DAMAGE` -- information about all areas on the vehicle that were damaged; one record per area
+		`DISTRACT` -- information about driver distractions; one record per distraction (at least one record per vehicle)
+		`DRIMPAIR` -- information about physical impairments of drivers; one record per impairment (at least one record for each driver)
+		`FACTOR` -- information about vehicle circumstances which may have contributed to the crash; one record per factor (at least one record per in-transport vehicle)
+		`MANEUVER` -- information about actions taken by the driver to avoid something or someone on the road; one record per maneuver (at least one record per in-transport vehicle)
+		`VIOLATN` -- information about violations charged to the drivers; one record per violation (at least one record per in-transport vehicle)
+		`VISION` -- information about circumstances which may have obstructed the driver's vision; one obstruction per record (at least one record per in-transport vehicle)
+		`VSOE` -- a simplified version of VEVENT
+	Person-Level (see person_layouts.xls):
+		`PERSON` -- information about all persons involved in the crash - motorists (drivers and passengers) and non-motorists (pedestrians and bicyclists) - including age, sex and injury severity; one record per person
+		`NMCRASH` -- information about any improper actions of people who were not occupants of vehicles (e.g. pedestrians and bicyclists) or contributing circumstances noted on the PAR; one record per action (at least one record per person not in a motor vehicle)
+		`NMIMPAIR` -- information about physical impairments of people not in a motor vehicle; one record per impairment (at least one record per person not in a motor vehicle)
+		`NMPRIOR` - information about what people who were not in a motor vehicle were doing prior to the crash; one record per action (at least one record per person not in a motor vehicle)
+		`SAFETYEQ` -- information about safety equipment used by people who were not in a motor vehicle; one record per equipment item (at least one record per person not in a motor vehicle)
+
+In addition to the data, you will receive these files:
+LEGAL.txt : the legal terms that you agree to if you use this data
+import guide.txt : a guide to help you import the data into Microsoft Access, MySQL or SQLite.
+Layouts (folder)
+	crash_layouts.xls : the record layout for each of the three crash-level files
+	person_layouts.xls : the record layout for each of the five person-level files
+	vehicle_layouts.xls : the record layout for each of the 11 vehicle-level files
+Agency documentation (folder)
+	Userguide-XXXX.pdf : the DOT's very detailed guide to each field in each table, for each year (not all fields were present every year)
+	FARS Files Errata Sheet.pdf : notes on historical data that was miscoded. Most notably, the DRUNK_DR field in the accident table was derived incorrectly from 1999 - 2008 and included non-drivers.
+	ANSI_Classification_Manual.pdf : a guide to FARS classifications
+	FARS_Criteria.pdf : definitions and criteria, excerpts from the classification manual
+Tables (folder)(csv DOWNLOAD ONLY)
+	contains the CSV files for each of the tables mentioned above
+
+
+IMPORTANT Notes about the 2010 - 2014 data:
+-- 2014 data is preliminary; the NHTSA releases preliminary data for the prior year and final data for two years ago every December, so final 2014 data will be available in Dec 2016, along with preliminary 2015 data.
+-- Many fields have been added and subtracted over these four years of data, so please pay attention to the START and STOP columns in each table layout; a variable may only appear for a year or two.
+-- Since many of the fields in FARS are coded, a description is also provided wherever possible. These description fields end in _T and immediately follow the code fields (e.g. STATE is the two-digit fips code for states and STATE_T contains state names).
+-- Code descriptions (_T fields) can sometimes change slightly from year to year; those changes will be reflected in the data because the codes and descriptions are matched separately for each year.
+-- This database can log a lot of details about a crash, but this information is not always available from crash reports; many of these fields are unused or not applicable.
+
+The older data (1994-2009) exists in three tables: accident, vehicle and person. The subsequent files are called acc94_00, acc01_09, veh94_00, veh01_09, pers94_00, and pers01_09.
+
+Record counts:
+acc94_00 : 260,086
+acc01_09 : 333,643
+pers94_00 : 709,073
+pers01_09 : 860,557
+veh94_00 : 397,178
+veh01_09 : 503,992
+
+
+ABOUT LATITUDES AND LONGITUDES:  In 1999, the DOT added latitude and longitude fields to the first table and race and Hispanic on the table regarding people; however, few were actually filled in, thus making this field not terribly useful at that time. Then, starting in 2001, the DOT refused to provide the latitude and longitude information, citing privacy converns; however, in 2007, the agency reversed its decision and released such values in the 2005 and 2006 data. In the vast majority of cases, the fields are populated. In 2005, only 1,433 do not include latitude and longitudes; in 2006, the number is 2,019. The agency might re-release previous years data with those values as well.
+
+A short description of the 1994-2009 tables:
+
+acc94_00 and acc01_09 include information that describe the accidents themselves, including road conditions, weather conditions, speed limits, number of vehicles, persons involved, etc. There is one record for every accident in this table.
+
+veh94_00 and veh01_09 contain information about the vehicles' make and model, Vehicle Identification Numbers, registered states, registered owners, etc. There is one record for every vehicle and driver involved in this table. It also includes driver information like state that issued the driver's license, previous speeding and DUI convictions, involvement in previous accidents and more. The 2005 data began including a sequence of events related to the motor vehicle (both collisions and non-collisions).
+
+pers94_00 and pers01_09 provide information about those who died in or survived the fatal accidents, including age, sex, position in the vehicle, whether or not a restraint system was engaged, whether airbag was deployed, etc. There is one record for every person (includes both motorists and non-motorists, injured and non-injured) involved in the accident. Note: The 1997 data in this table did not include vehicle make and model information; instead, use the information in the veh94_00 table.
+
+All of the tables are structured in the following method: First, there are the fields that are coded, such as "01" to indicate the state of Alabama. Then, there's a series of fields with "_T" as a suffix. Those fields are text versions -- using a combination of SAS and Python -- of the same fields that are represented earlier as codes. For example, a record with "01" in the STATE field would show up as "ALABAMA" in the field STATE_T. *PLEASE NOTE: the _T description fields are provided by the NHTSA, and are not infallible. Moreover, a single code can mean various things over the years, and so can have multiple descriptions depending on the year. Consult the "1975_to_2009_FARS_Analytic_Reference_Guide.pdf" for more information on each field, which years it is active, and what each code means.
+
+Finally, there are a few fields created by NICAR to show unique ID numbers, dates and times.
+
+If you want to learn all there is to know about a particular accident, you need to join tables. The ID field will allow you to do this. It's important to keep in mind that over the years the layouts and codes of the FARS data have changed. Again, the 1975_to_2009_FARS_Analytic_Reference_Guide.pdf in the "readme" folder is a road map to all the code and layout changes over the database's lifetime.
+
+One good way to gain more understanding of a particular field of interest is to query it like this (using SQL in Access):
+
+SELECT v_config, v_config_t, count(*)
+FROM veh01_09
+GROUP BY v_config, v_config_t
+ORDER BY 1
+
+You can then discover that sometime in the past, the DOT recoded "09" because it appears twice in the field V_CONFIG (vehicle configuration) with two different text translations in V_CONFIG_T. A check of the file 1975_to_2009_FARS_Analytic_Reference_Guide.pdf quickly confirms that and shows what years are affected. A cross-check between code fields and the "_T" fields is an effective way to isolate such changes. This also can show whether the fields have existed consistently over time. If every time the coded field is blank but has a "." in the text field, then that means actual records exist in all years. If both fields are truly blank, then that means the field has been added or removed during the eight years.
+
+A few new issues with recent data (including some 2008, 2009 updates):
+
+- The field HAZ_CARG has now been replaced by five fields that offer more detail: HAZ_INV, HAZ_PLAC, HAZ_ID, HAZ_CNO and HAZ_REL.  Be careful when trying to determine the involvement of hazardous materials based on the HAZ_CARG field.  For some recent data, this field contains �0�s, which in the past indicated that no hazardous materials were involved.  Some of these records, however, have information in the five new fields indicating that hazardous materials were involved.  Thus, HAZ_CARG is not a reliable indication of the involvement of hazardous materials for the newest data.
+- The field MCARR_ID is now a combination of two new fields: MCARR_I1 (a two-digit code for authority that issued the motor carrier ID) and MCARR_I2 (a nine-digit identification number for the motor carrier ID).
+- VE_FORMS and VE_TOTAL: The field VE_FORMS appears in all three tables (person, vehicle and accident), and it represents the number of vehicles in transport involved in the crash.  The field VE_TOTAL appears only in the accident table and represents all the vehicles involved in the crash, including parked cars.  Thus, in some cases, the two fields are identical, and in others, the value in VE_TOTAL is higher.  VE_TOTAL is used only for data after 2005.
+- The 2008 data for hit-and-runs (hit_run) in the accident and vehicle tables now contains fewer codes (and less detail) than previous years' data.  This is an example of the sort of changes in coding that occur from year to year.  It is necessary to use the system for the year in which the data was recorded because the same code may represent different things in different years.
+
+A few notes about fields with problems, mainly because of the changes in codes:
+
+MAN_COLL :  Manner of Collision -  Due to an expansion from one-digit data to two-digit data for 2001, many numbers appear twice with different meanings.  Also, don't assume that the DOT simply added a "0" to a "1".  For exmple, "6" and "06" are not the same thing.
+
+V_CONFIG :  Vehicle Configuration changed substantially over time. Bus, especially, is listed numerically as both 7 and 8 for about 2,000 records. The codes were expanded in 2001, so for that year and 2002, buses are coded as 20 or 21 (depending on number of passengers). Other types of vehicles have seen those changes, too.
+
+PREV_SUS :  Previous number of suspensions -  There are many records above five (one person, supposedly, had his license suspended 77 times). The accompanying DOT literature says to question all records that list more than five. Treat all the other fields related to previous infractions the same way.
+
+HIT_RUN  :  Fields don't correspond well to the documentation. Every option but 0 and 5 translated from the original code to mutliple text descriptions.
+
+CF3_T is a bit dirty; the text descriptions of different codes overlap, but are similar.
+
+PER_TYPE : was changed from 1 digit to a 2 digit coding system, but the text remains the same.
+
+AIR_BAG  :  It doubles up on 00 - one is "not-applicable" the other is "non-motorist"
+
+ATST_TYP : A few oddities.  They are, in brief; 10 in the coded form appears as "10" in the text field most of the time, but not all.  9 has multiple text meanings.  Code 99 is in the date, but not in the documentation.
+
+RACE : 00 appears as either NOT A FATAL(N/A) or NOT A FATALITY
+
+HISPANIC : 00 appears as either NOT A FATAL(N/A) or NOT A FATALITY or NOT APPLICABLE
+
+HARM_EV :  There are several typos in this field.  Too many to explain, so run a "count" query on this field (and the corresponding HARM_EV_T) to see what's happening.
+
+L_TYPE :  Several codes appear twice, and with significantly different text descriptions.
+
+
+If you're interested in examining alcohol-related accidents, we suggest you use the field dr_drink in the vehicle table, rather than the field drunk_dr in the accident table. Despite the fact that DOT documentation says the field drunk_dr field counts the number of drunk drivers, it appears to be counting drunk drivers AND passengers, at least in some instances. On the other hand, the field called dr_drink (also dr_drink_t) in the vehicle table shows only driver information.
+
+The city and county codes are Geographic Location Codes. These codes, maintained by the General Services Administration, list the number and letter codes federal agencies should use in designating geographic locations anywhere in the United States or abroad.
+
+In order to do an appropriate join between the Accident level city and county fields and the lookup tables (codes.csv in the "lookup" folder) you must join on both the state code (state = stcode) AND the matching codes for the location (i.e., county=cnty_code or city = city_code).
+
+Finally, note that you can't simply join all of the tables together in Access and most database managers because of the limitation of the number of fields, most commonly 255. Joining every field in the tables would result in more than 255 fields.
+
+For 1975 - 1993, the data came in four tables (the vehicle and driver tables were split). The file names include the name of the database (FARS), the year (1993) and the level (see below): FARS931, FARS932, FARS933, FARS934:
+
+Level one ("ACCIDENT LEVEL") table includes information that describes the accidents themselves, including road conditions, weather conditions, speed limits, number of vehicles, persons involved, etc. There is one record for every accident in this table.
+
+Level two ("VEHICLE LEVEL") table contains information about the vehicles' make and model, Vehicle Identification Numbers, registered states, registered owners, etc. There is one record for every vehicle involved in this table.
+
+Level three ("DRIVER LEVEL") table includes driver information like state that issued the driver's license, previous speeding and DUI convictions, involvement in previous accidents and more. New in 1998 are the driver height and weight. There is one record for each driver in this table.
+
+Level four ("PERSON LEVEL") table deals with information about those who died in or survived the fatal accidents, including age, sex, position in the vehicle, whether or not a restraint system was engaged, whether airbag was deployed, etc. There is one record for every person (includes both motorists and non-motorists, injured and non-injured) involved in the accident. (There are usually more records in this table than the others.)
+
+More information about FARS is available on the DOT Web site at http://www.nhtsa.dot.gov/people/ncsa/fars.html
+
+If you have any questions about NICAR Processing, please contact NICAR at (573) 884-7711.
+
+	***
+
+FROM THE IRE RESOURCE CENTER:
+Stories
+
+#21321
+A special report from the Orlando Sentinel looks at the number of fatal accidents in the lesser traveled highways in Florida. Deliberating on fatal accidents on the Colonial Drive in Central Florida, the in-depth report reveals that even though the traffic on the highways has lessened, the rate of accidents remains high.
+
+#21020
+The Gazette investigation found that nearly half the fatal accidents on Interstate 80 in Iowa from 1994-2001 involved semi-trailer trucks. No other interstate in Iowa had a rate that high. Traffic counts are growing on a 60-70 mile stretch of I-80 in Eastern Iowa, where many of the semi-trailer trucks are concentrated.
+
+#18888
+A KSTP-TV Eyewitness news investigation found a serious design flaw in the Jeep brand automobiles. In low-speed, rear-impact collisions, passenger doors have tended to jam and the gas tank tears loose, emptying into the passenger compartment.
+
+#18812
+The Kansas City Star reports on the effects of deregulation on the trucking industry. As truckers work long hours for low pay, the result is disturbing: "Fatigue behind the wheel of 40-ton rigs is now so pervasive on American highways that drivers regularly nod off and drift into oncoming lanes or slam into the backs of slower-moving cars.
+
+#17551
+Dateline investigated "one of this year's most controversial auto safety issues, revealing vital new information about the risk of deadly rollover accidents in sport utility vehicles.
+
+#16864
+An analysis by the Washington Post reveals that the "Ford Explorer has a higher rate of tire-related accidents than other sport-utility vehicles," regardless of the tire brand. The findings suggest that there is something about the design of the Explorer that contributes to accidents. This may mean that Firestone Tires are not entirely to blame for the recent fatal accidents.
+
+#16809
+The Star-Telegram investigates the dangers of driving on Texas highways and interstates. A recent survey showed that several of Fort Worth's heavily traveled highways have a high total of accidents and fatal car wrecks.
+
+#22600
+The story investigated the disproportionately high number of auto fatalities and injuries caused by Hispanic drivers, most of them seasonal migrant workers, on Virginia's East Shore. Most of the accidents were alcohol related.
+
+Tipsheets
+
+#2420
+This tipsheet is a comprehensive guide to reporting on the trucking industry. It begins with a list of questions to ask at the beginning of an investigation, like, "Did the truck driver have a valid Commercial Drivers License?" Next, the tipsheet lists some pieces of information that reporters should be able to find before deadline that could make their stories better.
+
+#2492
+Tom McGinty gives information on how to use the National Highway Traffic Safety Administration's Fatal Accident Reporting System, or FARS. He covers why it exists, how comprehensive and accurate the data is, and how it is structured.
+
+#2376
+This tipsheet is a basic overview of what resources to use when reporting on traffic fatalities. Tom McGinty offers some background on FARS, paper documents and driving records, and then explains how all three can all be helpful when reporting on the topic.
+
+#2981
+Brad Branan explores the value of pursuing a story on drunk driving, including what databases are helpful in such an investigation, and how to verify and analyze the information.
+
+Most tipsheets are downloadable for IRE members from http://www.ire.org/resourcenter. To obtain copies of stories, contact the Resource Center at (573) 882-3364.
