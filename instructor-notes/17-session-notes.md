@@ -24,6 +24,7 @@
 
 
 ## Class Intro - 5 minutes
+* If you have emailed me about PIA, flag me down during lab, let's talk
 * Reminder: if you are struggling, set up time to come see me.  I want to leave no one behind. Office hours - Monday and Thursday from 3-430.
 * Review class schedule for today.
 
