@@ -4,13 +4,13 @@ This project will give you a chance to go through the process of analyzing a com
 
 You will be provided with a database to analyze for this project, a slice of the National Highway Traffic Safety Administration's fatal auto accidents reporting system, FARS (Fatality Analysis Reporting System) from 2010 to 2016 for Maryland, Delaware and Washington, D.C.
 
-**With instructor permission only**, you may use database or collection of spreadsheets of similar complexity instead of the database provided to you. Please see me if you have an idea for a project you'd like to work on.  
+**With instructor permission only**, you may use database or collection of spreadsheets of sufficient complexity instead of the database provided to you. Please see me if you have an idea for a project you'd like to work on.  
 
 ## Deliverables and Schedule
 
 **Session 17:** the project will be introduced in detail.
 
-**Session 19:** a one-page status memo is due informing me of the following.
+**Session 19:** 500 word status memo posted as a forum post is due informing me of the following.
 
 * the questions you hope to answer with the database.
 * why this would be of interest to an audience of readers, viewers or listeners.
@@ -18,7 +18,7 @@ You will be provided with a database to analyze for this project, a slice of the
 
 You should also attach a well-commented SQL file with at least five queries you have written as you begin to explore the data.
 
-**Session 23:** a half-page status memo is due, updating me on your progress. If your project has evolved to answer new questions, you should inform me of that at this time. Otherwise, indicate what new information you have discovered.  You should attach your updated, well-commented SQL file with at least 10 additional queries as you explore the database.
+**Session 23:** a 250 word status memo as a forum post is due as a forum post, updating me on your progress. If your project has evolved to answer new questions, you should inform me of that at this time. Otherwise, indicate what new information you have discovered.  You should attach your updated, well-commented SQL file with at least 10 additional queries as you explore the database.
 
 **Session 29:** The final deliverables for this project are due.  
 
