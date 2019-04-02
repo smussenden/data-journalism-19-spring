@@ -58,8 +58,9 @@ Append copies of one or two news stories, government reports or other informatio
 
 ## Data Documentation and Tipsheets
 
-* [NICAR guide to FARS](nicar-fars.txt)
-* [FARS User Manual](FARS-User-Manual.pdf)
-* [FARS Detailed Codebook](FARS-Coding.pdf)
-* [NICAR Tipsheets and Stories from FARS](https://ire.org/nicar/database-library/databases/dot-fatality-analysis-reporting-system-fars/)
-* [Sample Queries](fars-sample.sql)
+
+* [NICAR guide to FARS](documentation/nicar-fars.txt)
+* [FARS User Manual](documentation/FARS-User-Manual.pdf)
+* [FARS Detailed Codebook](documentation/FARS-Coding.pdf)
+* [Select NICAR Tipsheets and Stories from FARS](https://www.ire.org/product/dot-fatality-analysis-reporting-system-simplified).  [Accessing NICAR Tipsheets](https://umd.instructure.com/courses/1259604/pages/17-nicar-ire-login?module_item_id=9445309). [More Tipsheets] (https://www.ire.org/resource-center/tipsheets/?q=fars)
+* [Sample Queries](documentation/fars-sample.sql)

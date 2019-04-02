@@ -2,7 +2,7 @@
 ## Data Analysis Lab 1 - Documentation Lab
 ### Goal of Today's Lab
 
-The goal of today's lab is to get you started on your data analysis assignment, by reviewing the documentation for the FARS (Fatality Analysis Reporting System) database, to get a sense of what information it contains.
+The goal of today's lab is to get you started on your data analysis project, by reviewing the documentation for the FARS (Fatality Analysis Reporting System) database, to get a sense of what information it contains.
 
 Using the documentation links provided below, work with a partner to develop an understanding of:
 
@@ -29,7 +29,7 @@ You will likely not finish this in class.  If you don't finish it, submit it as 
 * [NICAR guide to FARS](../17-Homework-Assigned/nicar-fars.txt)
 * [FARS User Manual](../17-Homework-Assigned/FARS-User-Manual.pdf)
 * [FARS Detailed Codebook](../17-Homework-Assigned/FARS-Coding.pdf)
-* [NICAR Tipsheets and Stories from FARS](https://ire.org/nicar/database-library/databases/dot-fatality-analysis-reporting-system-fars/).  [Accessing NICAR Tipsheets](https://umd.instructure.com/courses/1259604/pages/17-nicar-ire-login?module_item_id=9445309)
+* [Select NICAR Tipsheets and Stories from FARS](https://www.ire.org/product/dot-fatality-analysis-reporting-system-simplified).  [Accessing NICAR Tipsheets](https://umd.instructure.com/courses/1259604/pages/17-nicar-ire-login?module_item_id=9445309). [More Tipsheets] (https://www.ire.org/resource-center/tipsheets/?q=fars)
 * [Sample Queries](../17-Homework-Assigned/fars-sample.sql)
 
 ### Submitting
