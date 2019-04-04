@@ -7,7 +7,7 @@ The goal of today's lab is to allow you to continue working on you data analysis
 
 ### Instructions and Submitting
 
-Create a new SQL script file. Execute the queries described in this lab and [upload to the assignment on ELMS](https://umd.instructure.com/courses/1251920/assignments/4755580).
+Create a new SQL script file. Execute the queries described in this lab and [upload to the assignment on ELMS](https://umd.instructure.com/courses/1259604/assignments/4812000).
 
 ### Multiple Table Joins
 

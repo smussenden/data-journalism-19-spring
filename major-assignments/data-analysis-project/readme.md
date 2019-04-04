@@ -16,7 +16,9 @@ You will be provided with a database to analyze for this project, a slice of the
 * why this would be of interest to an audience of readers, viewers or listeners.
 * what you have discovered in your initial analysis, and what you plan to do to complete the assignment.
 
-You should also attach a well-commented SQL file with at least five queries you have written as you begin to explore the data.
+You should also paste at the bottom well-commented SQL with at least five queries you have written as you begin to explore the data.
+
+The ELMS forum link is [here](https://umd.instructure.com/courses/1259604/discussion_topics/3627337).
 
 **Session 23:** a 250 word status memo as a forum post is due as a forum post, updating me on your progress. If your project has evolved to answer new questions, you should inform me of that at this time. Otherwise, indicate what new information you have discovered.  You should attach your updated, well-commented SQL file with at least 10 additional queries as you explore the database.
 
