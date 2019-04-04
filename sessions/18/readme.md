@@ -27,4 +27,4 @@
 ## Homework Assigned at the End of This Class
 *Unless otherwise advised, this homework is due at midnight before the next class session.*   
 
-* Sign up for a free account on [DataCamp](https://www.datacamp.com) and send me the email you use to sign up. 
+* Sign up for a free account on [DataCamp](https://www.datacamp.com) and send me the email you use to sign up by posting to [this ELMS assignment](https://umd.instructure.com/courses/1259604/assignments/4865033)
