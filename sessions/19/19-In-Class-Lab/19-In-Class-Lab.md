@@ -1,4 +1,4 @@
-# Class 21 In Class Lab
+# Class 19 In Class Lab
 ## Data Cleaning
 
 ### Goal of Today's Lab
