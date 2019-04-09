@@ -7,7 +7,7 @@ This reading is designed to introduce you to some of the flaws common to data yo
 
 ### Reading
 
-Read the [Quartz Guide to Bad Data](https://github.com/Quartz/bad-data-guide#data-are-aggregated-to-the-wrong-categories-or-geographies), a friendly primer "to problems seen in real-world data along with suggestions on how to resolve them."
+Read the [Quartz Guide to Bad Data](https://github.com/Quartz/bad-data-guide), a friendly primer "to problems seen in real-world data along with suggestions on how to resolve them."
 
 From the intro: "As a reporter your world is full of data. And those data are full of problems. This guide presents thorough descriptions and suggested solutions to many of the kinds of problems that you will encounter when working with data. Most of these problems can be solved. Some of them can't be solved and that means you should not use the data. Others can't be solved, but with precautions you can continue using the data. In order to allow for these ambiguities, this guide is organized by who is best equipped to solve the problem: you, your source, an expert, etc. In the description of each problem you may also find suggestions for what to do if that person can't help you."
 

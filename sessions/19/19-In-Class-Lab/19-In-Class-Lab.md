@@ -13,7 +13,7 @@ After you finish, this tutorial post the csv file created as part of this lab to
 
 OpenRefine is a tool that runs in your browser. You can download it at [OpenRefine.org](http://openrefine.org/). Download the latest release for your operating system.
 
-Note: most of the tutorials we're working through were created for version 2.7.  The latest version, 3.0, is essentially the same, but there may be minor differences.
+Note: most of the tutorials we're working through were created for version 2.7.  The latest version, 3.1, is essentially the same, but there may be minor differences.
 
 ### Step 2: Watch this introductory video
 
