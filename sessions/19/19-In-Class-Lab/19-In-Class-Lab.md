@@ -7,7 +7,7 @@ Today's lab will introduce you to a handy tool for data cleaning called OpenRefi
 
 ### Turning it in
 
-After you finish, this tutorial post the csv file created as part of this lab to [this ELMS assignment](https://umd.instructure.com/courses/1251920/assignments/4759062).  
+After you finish, this tutorial post the csv file created as part of this lab to [this ELMS assignment](https://umd.instructure.com/courses/1259604/assignments/4812004?module_item_id=9445318).  
 
 ### Step 1: Install OpenRefine
 

@@ -13,8 +13,8 @@ From the intro: "As a reporter your world is full of data. And those data are fu
 
 ### Quiz
 
-Take this short quiz to test your comprehension of the reading. [ELMS Link](https://umd.instructure.com/courses/1251920/quizzes/1253736)
+Take this short quiz to test your comprehension of the reading. [ELMS Link](https://umd.instructure.com/courses/1259604/quizzes/1263659)
 
 ### Forum Post
 
-Think of an example of a data set you have used previously -- in this class, another class, or in your work as a journalist -- that has one or more of the flaws described in this document. In no more than 200 words, describe the data set, the issue you identified, the relevant sub-section in the reading, and how the reading suggests fixing the issue. [ELMS Link](https://umd.instructure.com/courses/1251920/discussion_topics/3529713)  
+Think of an example of a data set you have used previously -- in this class, another class, or in your work as a journalist -- that has one or more of the flaws described in this document. In no more than 200 words, describe the data set, the issue you identified, the relevant sub-section in the reading, and how the reading suggests fixing the issue. [ELMS Link](https://umd.instructure.com/courses/1259604/discussion_topics/3575070)  
