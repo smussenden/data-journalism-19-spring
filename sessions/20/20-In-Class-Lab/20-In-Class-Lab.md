@@ -1,4 +1,4 @@
-# Class 23 In Class Lab
+# Class 20 In Class Lab
 ## Loading Data | Getting data into MySQL workbench
 
 ### Goal of Today's Lab
@@ -10,7 +10,7 @@ But what if you have a table you want to analyze in Workbench that doesn't alrea
 This assignment will introduce you to the process of creating a single table in an existing database, and uploading data to it.          
 
 ### Turning it in
-After you finish, post your edited sql script to this [ELMS assignment](https://umd.instructure.com/courses/1251920/assignments/4762313).  
+After you finish, post your edited sql script to this [ELMS assignment](https://umd.instructure.com/courses/1259604/assignments/4812006).  
 
 ### Part 1: The Data
 
@@ -187,4 +187,4 @@ This is a much more typical occurrence when loading data. Unlike the example abo
 
 Web research will help you find a solution to this problem. You may need to open the CSV in Atom and, possibly edit it. If you edit it, describe in your SQL file what edits you made.  You may also need to modify your import script.   
 
-Before you [upload your file to ELMS](https://umd.instructure.com/courses/1251920/assignments/4762313), show me your solution.
+Before you [upload your file to ELMS](https://umd.instructure.com/courses/1259604/assignments/4812006), show me your solution.
