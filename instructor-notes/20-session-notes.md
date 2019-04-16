@@ -21,6 +21,7 @@
 * sql workbench.
 
 ## Class Intro - 5 minutes
+* The Wall - 330 in eaton.
 * Will come around and talk about data analysis assignment. HIT PEOPLE I MISSED LAST WEEK.
 * Will come around and talk about your PIA requests.  If you need something from me, flag me down.
 * Reminder: if you are struggling, set up time to come see me.  I want to leave no one behind. Office hours - Monday and Thursday from 3-430.
@@ -33,7 +34,7 @@
 * Sometimes, you cannot resolve these problems, and you will be forced to limit the questions you can ask. This is okay and good.  Be conservative.  
 
 ## In Class Lab - Data Import
-* how to pull data into sql. Kind of a messy process. 
+* how to pull data into sql. Kind of a messy process.
 
 # SOLUTION
 At the end of class, show them solution, which is to modify the csv with any comma inside a quote as \ in front of it
