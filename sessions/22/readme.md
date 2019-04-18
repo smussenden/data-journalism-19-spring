@@ -1,9 +1,9 @@
-# Class Guide | Session 21
+# Class Guide | Session 22
 
 ## Homework Due Before Start of Class
 *Unless otherwise advised, this homework was due at midnight before this class session.*
 
-* Work on data analysis project.
+* R homework
 
 ## Major Assignment Tasks due Before Start of Class
 *Unless otherwise advised, this homework was due at midnight before this class session.*
