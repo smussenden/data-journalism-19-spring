@@ -30,5 +30,4 @@
 ## Homework Assigned at the End of This Class
 *Unless otherwise advised, this homework is due at midnight before the next class session.*  
 
-* Create a new R project folder, upload a CSV of your choosing, and create an R script file that has you ask and answer questions using the methods from today's lab. This could be for your analysis project. It could be a CSV we've already used. Could be something else entirely. Put questions and answers in comments.  Save each query you used to get the answer as an object with a different name.
-* [ELMS Link](https://umd.instructure.com/courses/1259604/assignments/4870186)  
+* Work on analysis project.
