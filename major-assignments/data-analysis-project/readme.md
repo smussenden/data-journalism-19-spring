@@ -21,6 +21,7 @@ You should also paste at the bottom well-commented SQL with at least five querie
 The ELMS forum link is [here](https://umd.instructure.com/courses/1259604/discussion_topics/3627337).
 
 **Session 23:** a 250 word status memo as a forum post is due as a forum post, updating me on your progress. If your project has evolved to answer new questions, you should inform me of that at this time. Otherwise, indicate what new information you have discovered.  You should attach your updated, well-commented SQL file with at least 10 additional queries as you explore the database.
+The ELMS forum link is [here](https://umd.instructure.com/courses/1259604/discussion_topics/3636252).
 
 **Session 29:** The final deliverables for this project are due.  
 

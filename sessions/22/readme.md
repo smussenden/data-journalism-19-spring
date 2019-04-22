@@ -13,7 +13,7 @@
 ## Major Assignment Tasks due Before Next Class
 *Unless otherwise advised, this major assignment task is due at midnight before the next class session.*   
 
-* Data Analysis Project - 250 word status memo as a forum post is due as a forum post, updating me on your progress. [Link](../../major-assignments/data-acquisition-project/readme.md)
+* Data Analysis Project - 250 word status memo as a forum post is due as a forum post, updating me on your progress. [Link](../../major-assignments/data-analysis-project/readme.md)
 * Coming up - Final Data Acquisition Reports and Presentations due in Session 25 and Session 26.
 
 ## Lecture and discussion
