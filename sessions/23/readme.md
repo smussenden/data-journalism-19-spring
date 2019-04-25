@@ -17,6 +17,8 @@
 * Upcoming
   * Final Data Acquisition Project Report Due Session 25.
   * Final Data Acquisition Project Presentation in Session 25 or 26. Assignments Made Today.
+  * Session 25 Presentations - Horus, Camila, Nora, Elliott, Theresa, Dan, Carly.
+  * Session 26 Presentations - Jared, Colleen, Hannah, Ian, Sam, Will.
   * Final Data Analysis Project Submission - Session 29.
 
 ## Lecture and discussion
