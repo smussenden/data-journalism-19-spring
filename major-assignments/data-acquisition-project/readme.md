@@ -100,3 +100,4 @@ You will make a verbal presentation to the class (10-12 minutes) on your project
 
 **MEMO 5 FORUM POST and Project Log Link Due at start of Session 25**
 Memo 5 (1,000 words) is due as a forum post, a written project report that describes in detail your efforts to get the database, including all of the elements covered in your verbal presentation. You should also include your completed project log, copies of significant written correspondence with the agency, any documentation and (if you obtained it) a copy of the database, and your presentation slide deck.
+[Elms Link](https://umd.instructure.com/courses/1259604/discussion_topics/3643163?module_item_id=9533291)
