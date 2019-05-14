@@ -24,6 +24,7 @@ The ELMS forum link is [here](https://umd.instructure.com/courses/1259604/discus
 The ELMS forum link is [here](https://umd.instructure.com/courses/1259604/discussion_topics/3636252).
 
 **Session 29:** The final deliverables for this project are due.  
+The ELMS forum link is [here](https://umd.instructure.com/courses/1259604/assignments/4812009)
 
 ***Story Memo***
 You will turn in a story memo of 1,000 to 1,200 words (about five pages, double-spaced).
